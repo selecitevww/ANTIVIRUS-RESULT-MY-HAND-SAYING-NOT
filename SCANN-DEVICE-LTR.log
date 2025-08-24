@@ -1,0 +1,1005 @@
+Windows 10 Home x64 (version 6.3) 22621 [22621.1.amd64fre.ni_release.220506-1250]
+Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz
+Total memory: 16225 Mb
+Last update: 30.12.1899
+Collected: 17.06.2066 4:48:51
+
+[Processes]
+
+980	winlogon.exe	%system%	[Microsoft Corporation]
+1032	LsaIso.exe	%system%	[Microsoft Corporation]
+1044	lsass.exe	%system%	[Microsoft Corporation]
+1168	svchost.exe	%system%	[Microsoft Corporation]
+1196	fontdrvhost.exe	%system%	[Microsoft Corporation]
+1204	fontdrvhost.exe	%system%	[Microsoft Corporation]
+1304	svchost.exe	%system%	[Microsoft Corporation]
+1356	svchost.exe	%system%	[Microsoft Corporation]
+1432	dwm.exe	%system%	[Microsoft Corporation]
+1532	svchost.exe	%system%	[Microsoft Corporation]
+1564	svchost.exe	%system%	[Microsoft Corporation]
+1720	svchost.exe	%system%	[Microsoft Corporation]
+1772	svchost.exe	%system%	[Microsoft Corporation]
+1804	svchost.exe	%system%	[Microsoft Corporation]
+1840	svchost.exe	%system%	[Microsoft Corporation]
+1856	svchost.exe	%system%	[Microsoft Corporation]
+1892	svchost.exe	%system%	[Microsoft Corporation]
+1964	svchost.exe	%system%	[Microsoft Corporation]
+1704	svchost.exe	%system%	[Microsoft Corporation]
+2180	svchost.exe	%system%	[Microsoft Corporation]
+2188	svchost.exe	%system%	[Microsoft Corporation]
+2228	svchost.exe	%system%	[Microsoft Corporation]
+2236	svchost.exe	%system%	[Microsoft Corporation]
+2244	svchost.exe	%system%	[Microsoft Corporation]
+2400	svchost.exe	%system%	[Microsoft Corporation]
+2516	svchost.exe	%system%	[Microsoft Corporation]
+2524	svchost.exe	%system%	[Microsoft Corporation]
+2604	svchost.exe	%system%	[Microsoft Corporation]
+2676	svchost.exe	%system%	[Microsoft Corporation]
+2708	svchost.exe	%system%	[Microsoft Corporation]
+2796	svchost.exe	%system%	[Microsoft Corporation]
+2824	svchost.exe	%system%	[Microsoft Corporation]
+2936	svchost.exe	%system%	[Microsoft Corporation]
+2944	svchost.exe	%system%	[Microsoft Corporation]
+2952	svchost.exe	%system%	[Microsoft Corporation]
+3048	svchost.exe	%system%	[Microsoft Corporation]
+3144	svchost.exe	%system%	[Microsoft Corporation]
+3176	svchost.exe	%system%	[Microsoft Corporation]
+3284	svchost.exe	%system%	[Microsoft Corporation]
+3324	svchost.exe	%system%	[Microsoft Corporation]
+3456	spoolsv.exe	%system%	[Microsoft Corporation]
+3536	svchost.exe	%system%	[Microsoft Corporation]
+3636	svchost.exe	%system%	[Microsoft Corporation]
+3848	svchost.exe	%system%	[Microsoft Corporation]
+3860	svchost.exe	%system%	[Microsoft Corporation]
+3868	svchost.exe	%system%	[Microsoft Corporation]
+3876	svchost.exe	%system%	[Microsoft Corporation]
+3884	svchost.exe	%system%	[Microsoft Corporation]
+3904	svchost.exe	%system%	[Microsoft Corporation]
+3912	svchost.exe	%system%	[Microsoft Corporation]
+3916	svchost.exe	%system%	[Microsoft Corporation]
+3928	svchost.exe	%system%	[Microsoft Corporation]
+3960	transmission-daemon.exe	%programfiles%\Transmission	[Transmission Project]
+4484	svchost.exe	%system%	[Microsoft Corporation]
+4508	svchost.exe	%system%	[Microsoft Corporation]
+4700	svchost.exe	%system%	[Microsoft Corporation]
+4968	svchost.exe	%system%	[Microsoft Corporation]
+4140	sihost.exe	%system%	[Microsoft Corporation]
+3584	svchost.exe	%system%	[Microsoft Corporation]
+2096	svchost.exe	%system%	[Microsoft Corporation]
+4988	svchost.exe	%system%	[Microsoft Corporation]
+5124	taskhostw.exe	%system%	[Microsoft Corporation]
+5140	ltr.exe	%programfiles%\Loaris Trojan Remover	[Loaris Inc.]
+5188	svchost.exe	%system%	[Microsoft Corporation]
+5504	svchost.exe	%system%	[Microsoft Corporation]
+5632	explorer.exe	%windir%	[Microsoft Corporation]
+5816	svchost.exe	%system%	[Microsoft Corporation]
+5876	svchost.exe	%system%	[Microsoft Corporation]
+5952	SearchIndexer.exe	%system%	[Microsoft Corporation]
+5376	SearchHost.exe	%windir%\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy	[Microsoft Corporation]
+5320	StartMenuExperienceHost.exe	%windir%\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy	[Microsoft Corporation]
+6292	RuntimeBroker.exe	%system%	[Microsoft Corporation]
+6380	svchost.exe	%system%	[Microsoft Corporation]
+6408	RuntimeBroker.exe	%system%	[Microsoft Corporation]
+6488	svchost.exe	%system%	[Microsoft Corporation]
+6704	svchost.exe	%system%	[Microsoft Corporation]
+7404	ctfmon.exe	%system%	[Microsoft Corporation]
+4688	dllhost.exe	%system%	[Microsoft Corporation]
+6720	LiveTuner2.exe	%programfiles(x86)%\Ashampoo WinOptimizer	[]
+7524	svchost.exe	%system%	[Microsoft Corporation]
+8160	CheckNDISPort_df.exe	%programfiles(x86)%\4G Mobile Hotspot\4G Mobile Hotspot	[] = 82D954BFF1994D72E53588C60FBA9C32:478928
+7304	CancelAutoPlay_df.exe	%programfiles(x86)%\4G Mobile Hotspot\4G Mobile Hotspot	[] = 88B4D1FCA25DC85BB283E5EAFA53534C:448208
+7432	svchost.exe	%system%	[Microsoft Corporation]
+9872	?    ??    ??    ??    ?.exe	%desktopdir%	[www.sordum.org]
+9964	svchost.exe	%system%	[Microsoft Corporation]
+10216	cmd.exe	%system%	[Microsoft Corporation]
+10228	conhost.exe	%system%	[Microsoft Corporation]
+9768	svchost.exe	%system%	[Microsoft Corporation]
+3980	svchost.exe	%system%	[Microsoft Corporation]
+7332	svchost.exe	%system%	[Microsoft Corporation]
+9104	LiveTunerService.exe	%programfiles(x86)%\Ashampoo WinOptimizer	[]
+6808	audiodg.exe	%system%	[Microsoft Corporation]
+11388	dllhost.exe	%system%	[Microsoft Corporation]
+14320	svchost.exe	%system%	[Microsoft Corporation]
+12712	ApplicationFrameHost.exe	%system%	[Microsoft Corporation]
+25868	taskhostw.exe	%system%	[Microsoft Corporation]
+20700	svchost.exe	%system%	[Microsoft Corporation]
+26200	svchost.exe	%system%	[Microsoft Corporation]
+25640	cmd.exe	%system%	[Microsoft Corporation]
+26768	conhost.exe	%system%	[Microsoft Corporation]
+29604	ShellExperienceHost.exe	%windir%\SystemApps\ShellExperienceHost_cw5n1h2txyewy	[Microsoft Corporation]
+29688	RuntimeBroker.exe	%system%	[Microsoft Corporation]
+40416	Notepad.exe	%programfiles%\WindowsApps\Microsoft.WindowsNotepad_11.2112.32.0_x64__8wekyb3d8bbwe\Notepad	[Microsoft Corporation]
+41492	smartscreen.exe	%system%	[Microsoft Corporation]
+44060	Notepad.exe	%programfiles%\WindowsApps\Microsoft.WindowsNotepad_11.2112.32.0_x64__8wekyb3d8bbwe\Notepad	[Microsoft Corporation]
+47064	cmd.exe	%desktopdir%\?   ?cmd	[Microsoft Corporation]
+40988	conhost.exe	%system%	[Microsoft Corporation]
+47436	miner.exe	%sysdrive%\Users\gminer_3_44_windows64	[]
+41340	miner.exe	%sysdrive%\Users\gminer_3_44_windows64	[]
+44272	mspaint.exe	%programfiles%\WindowsApps\Microsoft.Paint_11.2201.22.0_x64__8wekyb3d8bbwe\PaintApp	[Microsoft Corporation]
+45548	svchost.exe	%system%	[Microsoft Corporation]
+48536	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+48152	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+48704	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+41800	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+49988	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+50132	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+50024	chrome.exe	%programfiles%\Google\Chrome\Application	[Google LLC]
+44976	svchost.exe	%system%	[Microsoft Corporation]
+48184	svchost.exe	%system%	[Microsoft Corporation]
+50888	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+27880	conhost.exe	%system%	[Microsoft Corporation]
+42880	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+31148	WerFault.exe	%system%	[Microsoft Corporation]
+49736	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+49456	conhost.exe	%system%	[Microsoft Corporation]
+51684	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+50360	WerFault.exe	%system%	[Microsoft Corporation]
+50148	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+49932	conhost.exe	%system%	[Microsoft Corporation]
+51332	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+51396	conhost.exe	%system%	[Microsoft Corporation]
+51052	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+39900	WerFault.exe	%system%	[Microsoft Corporation]
+51724	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+42488	WerFault.exe	%system%	[Microsoft Corporation]
+49876	WmiPrvSE.exe	%system%\wbem	[Microsoft Corporation]
+50560	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+46372	conhost.exe	%system%	[Microsoft Corporation]
+52068	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+51312	conhost.exe	%system%	[Microsoft Corporation]
+50656	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+51644	WerFault.exe	%system%	[Microsoft Corporation]
+47208	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+48344	conhost.exe	%system%	[Microsoft Corporation]
+50432	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+51176	WerFault.exe	%system%	[Microsoft Corporation]
+50632	conhost.exe	%system%	[Microsoft Corporation]
+44696	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+50136	conhost.exe	%system%	[Microsoft Corporation]
+49104	openvpn.exe	%sysdrive%\Users\OpenVPN\bin	[The OpenVPN Project]
+46228	conhost.exe	%system%	[Microsoft Corporation]
+
+[Startup]
+
+(x64) HKCU\Software\Microsoft\Windows\CurrentVersion\Run!Opera Browser Assistant	%programfiles(x86)%\Opera\assistant\browser_assistant.exe	[Opera Software] = 27ABCA9DFBE1927828839C5067DA9F7D:4965792
+(x64) HKCU\Software\Microsoft\Windows\CurrentVersion\Run!Download Master	%programfiles(x86)%\download master\dmaster.exe -autorun	[WestByte] = A8BDF4C700871C0E33B7A220BA60ADBC:6306624
+(x64) HKCU\Software\Microsoft\Windows\CurrentVersion\Run!Lesta Game Center	"%programfiles(x86)%\Lesta\gamecenter\lgc.exe" --background	[©2022-2025 Lesta Games Agency, LLC] = 316CD68BCE2287F705D0FC4A36AA8CEA:2185944
+(x64) HKLM\Software\Microsoft\Windows\CurrentVersion\Run!SecurityHealth	%system%\securityhealthsystray.exe	[Microsoft Corporation] = 9109273FC8711D74B676AC3653D0104F:266240
+(x64) HKLM\Software\Microsoft\Windows\CurrentVersion\Run!Ashampoo WinOptimizer Live-Tuner2	"%programfiles(x86)%\ashampoo winoptimizer\livetuner2.exe" -tray	[] = AB672337AA1F42F9237836CD9C338771:4751776
+(x86) HKLM\Software\Microsoft\Windows\CurrentVersion\Run!CheckNDISPort57ac56	%programfiles(x86)%\4g mobile hotspot\4g mobile hotspot\checkndisport_df.exe	[] = 82D954BFF1994D72E53588C60FBA9C32:478928
+(x86) HKLM\Software\Microsoft\Windows\CurrentVersion\Run!CancelAutoPlay_df	"%programfiles(x86)%\4g mobile hotspot\4g mobile hotspot\cancelautoplay_df.exe" run	[] = 88B4D1FCA25DC85BB283E5EAFA53534C:448208
+
+[Scheduled Tasks]
+
+%windir%\Tasks\CreateExplorerShellUnelevatedTask.job - %windir%\explorer.exe /NoUACCheck = 21CAE655F605098574F5F9AF2030D974:5009400
+%system%\Tasks\CreateExplorerShellUnelevatedTask - %windir%\explorer.exe /NoUACCheck = 21CAE655F605098574F5F9AF2030D974:5009400
+%system%\Tasks\MicrosoftEdgeUpdateTaskMachineCore{1F7A6CB2-7357-4246-92E5-5365BEFD4037} - %programfiles(x86)%\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /c = D7DEC1752172A55A855DA132E6B685CB:206240
+%system%\Tasks\MicrosoftEdgeUpdateTaskMachineUA{8033F033-0D68-4922-A60C-C7E776EA3303} - %programfiles(x86)%\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /ua /installsource scheduler = D7DEC1752172A55A855DA132E6B685CB:206240
+%system%\Tasks\Opera scheduled assistant Autoupdate 253392458438 - %programfiles(x86)%\Opera\launcher.exe --scheduledautoupdate --component-name=assistant --component-path="X:\Program Files (x86)\Opera\assistant" $(Arg0) = not found
+%system%\Tasks\Opera scheduled Autoupdate 253392458434 - %programfiles(x86)%\Opera\autoupdate\opera_autoupdate.exe --scheduledtask --bypasslauncher $(Arg0) = CAF4B965E5EF7F2CA5D91B55C2958BF6:6239704
+%system%\Tasks\Trojan Remover - %programfiles%\Loaris Trojan Remover\ltr.exe  = 79E87EC368693BB37699AB0C177BE4F4:16692736
+%system%\Tasks\Agent Activation Runtime\S-1-5-21-2432841706-3729758032-365323388-500 - C:\Windows\System32\AgentActivationRuntimeStarter.exe  = not found
+%system%\Tasks\GoogleSystem\GoogleUpdater\GoogleUpdaterTaskSystem141.0.7340.0{7D40044D-58E7-4B50-BA9B-28BCCDFC5CF4} - %programfiles(x86)%\Google\GoogleUpdater\141.0.7340.0\updater.exe --wake --system = 196C68FE20311349025D04901AA6B143:6813336
+%system%\Tasks\Microsoft\Windows\AppID\PolicyConverter - %system%\appidpolicyconverter.exe  = 0ED4C8CD1333975E549F203E7B900259:155648
+%system%\Tasks\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck - %system%\appidcertstorecheck.exe  = 97A256A843FFC013A714CAE11BC32940:77824
+%system%\Tasks\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser - %system%\sc.exe start InventorySvc = FF2A4319FA5531F0D7B98DBBA9ABBD4A:98304
+%system%\Tasks\Microsoft\Windows\Application Experience\PcaPatchDbTask - %system%\rundll32.exe %windir%\system32\PcaSvc.dll,PcaPatchSdbTask = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\Application Experience\SdbinstMergeDbTask - %system%\sdbinst.exe -mm = 3D3F1F36A9C73167579F6920483699A3:212992
+%system%\Tasks\Microsoft\Windows\Application Experience\StartupAppTask - %system%\rundll32.exe Startupscan.dll,SusRunTask = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\ApplicationData\appuriverifierdaily - %system%\AppHostRegistrationVerifier.exe  = 5A7831FE6C452547ADA5AD795320A4A5:143360
+%system%\Tasks\Microsoft\Windows\ApplicationData\appuriverifierinstall - %system%\AppHostRegistrationVerifier.exe  = 5A7831FE6C452547ADA5AD795320A4A5:143360
+%system%\Tasks\Microsoft\Windows\ApplicationData\CleanupTemporaryState - %system%\rundll32.exe Windows.Storage.ApplicationData.dll,CleanupTemporaryState = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\ApplicationData\DsSvcCleanup - %system%\dstokenclean.exe  = 3F882EBB068B8FC6F24913FA399B84C1:36864
+%system%\Tasks\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup - %system%\rundll32.exe %windir%\system32\AppxDeploymentClient.dll,AppxPreStageCleanupRunTask = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\Autochk\Proxy - %system%\rundll32.exe /d acproxy.dll,PerformAutochkOperations = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\Bluetooth\UninstallDeviceTask - %system%\BthUdTask.exe $(Arg0) = EE5B6B4015898230C4D19888B9F75019:65536
+%system%\Tasks\Microsoft\Windows\capabilityaccessmanager\maintenancetasks - %system%\rundll32.exe %windir%\system32\CapabilityAccessManager.dll,CapabilityAccessManagerDoStoreMaintenance = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\Chkdsk\SyspartRepair - %system%\bcdboot.exe %windir% /sysrepair = E1CE7E1DE2DEA92225F063CFD0CAE223:253952
+%system%\Tasks\Microsoft\Windows\Clip\License Validation - %system%\ClipUp.exe -p -s -o = BE589137ADA8AD5555A331B9D2C26220:1137736
+%system%\Tasks\Microsoft\Windows\Customer Experience Improvement Program\Consolidator - %system%\wsqmcons.exe  = 28CCB014EB9E224C7CE76CEB3EB55981:81920
+%system%\Tasks\Microsoft\Windows\Defrag\ScheduledDefrag - %system%\Defrag.exe -c -h -o -$ = 662BA4DB4D348D5152EBC73F12A7AB49:245760
+%system%\Tasks\Microsoft\Windows\Device Information\Device - %system%\devicecensus.exe SystemCxt = C5364CBAEA81A29FCBD996B2E0B10D43:161104
+%system%\Tasks\Microsoft\Windows\Device Information\Device User - %system%\devicecensus.exe UserCxt = C5364CBAEA81A29FCBD996B2E0B10D43:161104
+%system%\Tasks\Microsoft\Windows\DirectX\DirectXDatabaseUpdater - %system%\directxdatabaseupdater.exe  = 685A5CB790DDAD84FC279DBA451559AE:176128
+%system%\Tasks\Microsoft\Windows\DirectX\DXGIAdapterCache - %system%\dxgiadaptercache.exe  = F864A7C7E14B61B9DBC77A33E3B4BDAB:135168
+%system%\Tasks\Microsoft\Windows\DiskCleanup\SilentCleanup - %system%\cleanmgr.exe /autocleanstoragesense /d %systemdrive% = 4273ED5ECEE9A1E7BAA0262EBF6334FA:299008
+%system%\Tasks\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector - %system%\rundll32.exe dfdts.dll,DfdGetDefaultPolicyAndSMART = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver - %system%\DFDWiz.exe  = A6E3CBA5D22776F545D290FA7E1C25FA:73728
+%system%\Tasks\Microsoft\Windows\DiskFootprint\Diagnostics - %system%\disksnapshot.exe -z = D2AE980905D6F4DA5095FDC4FBD04BC9:94208
+%system%\Tasks\Microsoft\Windows\DUSM\dusmtask - %system%\dusmtask.exe  = CC94739FEAF74C5A27B21D73E12934A8:73728
+%system%\Tasks\Microsoft\Windows\Feedback\Siuf\DmClient - %system%\dmclient.exe  = 83F869FE590E3CEC72A262633046DAA7:151552
+%system%\Tasks\Microsoft\Windows\Feedback\Siuf\DmClientOnScenarioDownload - %system%\dmclient.exe utcwnf = 83F869FE590E3CEC72A262633046DAA7:151552
+%system%\Tasks\Microsoft\Windows\Kernel\La57Cleanup - %system%\la57setup.exe  = 60221499A28A97B2C152242E2AC22707:36864
+%system%\Tasks\Microsoft\Windows\Location\Notifications - %system%\LocationNotificationWindows.exe  = DD03B8584685BE3274F73C84E3A67359:102400
+%system%\Tasks\Microsoft\Windows\Location\WindowsActionDialog - %system%\WindowsActionDialog.exe  = 9AD13B8962E241C270A25FBF32C0E48B:77824
+%system%\Tasks\Microsoft\Windows\Management\Provisioning\Cellular - %system%\provtool.exe /turn 7 /source CellStateChangeTask = 2A1A66EFF450BEC7B3CC338C49F93C5A:114688
+%system%\Tasks\Microsoft\Windows\Management\Provisioning\Logon - %system%\provtool.exe /turn 5 /source LogonIdleTask = 2A1A66EFF450BEC7B3CC338C49F93C5A:114688
+%system%\Tasks\Microsoft\Windows\Management\Provisioning\MdmDiagnosticsCleanup - %system%\MdmDiagnosticsTool.exe /clean = 257B9CEF31669F9E3DE0B98CC7F613D3:90112
+%system%\Tasks\Microsoft\Windows\Management\Provisioning\Retry - %system%\provtool.exe /turn 5 /source ProvRetryTask = 2A1A66EFF450BEC7B3CC338C49F93C5A:114688
+%system%\Tasks\Microsoft\Windows\Management\Provisioning\RunOnReboot - %system%\provtool.exe /turn 5 /source ContinueSessionTask = 2A1A66EFF450BEC7B3CC338C49F93C5A:114688
+%system%\Tasks\Microsoft\Windows\MUI\LPRemove - %system%\lpremove.exe  = F3CC449F9FF2A40DBD4BF94A502ACD4C:106496
+%system%\Tasks\Microsoft\Windows\NetTrace\GatherNetworkInfo - %system%\gatherNetworkInfo.vbs  = DA4D4261A43DE7E851A9378ED0668EB9:90704
+%system%\Tasks\Microsoft\Windows\NlaSvc\WiFiTask - %system%\wifitask.exe nla = 08A2A3231AE7D798A046A186180825E0:185688
+%system%\Tasks\Microsoft\Windows\PI\SecureBootEncodeUEFI - %system%\SecureBootEncodeUEFI.exe  = 9D79D5CA619BB7B215066BFA4EDF045A:57344
+%system%\Tasks\Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers - %system%\drvinst.exe 6 = C995655070DB9C0BBD6775B06F0273DA:376832
+%system%\Tasks\Microsoft\Windows\Printing\EduPrintProv - %system%\eduprintprov.exe  = 7EBB161343BBFA3A8208CB9A76E3BD85:122880
+%system%\Tasks\Microsoft\Windows\PushToInstall\LoginCheck - %system%\sc.exe start pushtoinstall login = FF2A4319FA5531F0D7B98DBBA9ABBD4A:98304
+%system%\Tasks\Microsoft\Windows\PushToInstall\Registration - %system%\sc.exe start pushtoinstall registration = FF2A4319FA5531F0D7B98DBBA9ABBD4A:98304
+%system%\Tasks\Microsoft\Windows\RemoteAssistance\RemoteAssistanceTask - %system%\raserver.exe /offerraupdate = 4BAE005C930280AF85AFD8D6902F1E44:176128
+%system%\Tasks\Microsoft\Windows\SharedPC\Account Cleanup - %system%\rundll32.exe %windir%\System32\Windows.SharedPC.AccountManager.dll,StartMaintenance = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\Shell\FamilySafetyMonitor - %system%\WpcMon.exe  = 0470BFFC6EEB6011B97179A6B59FA994:1203816
+%system%\Tasks\Microsoft\Windows\SpacePort\SpaceAgentTask - %system%\SpaceAgent.exe  = E39364D9E94915E9983FB390B9459AE8:208896
+%system%\Tasks\Microsoft\Windows\SpacePort\SpaceManagerTask - %system%\spaceman.exe /Work = 65B4D93DC6D65AFD75B0E61C43497681:107856
+%system%\Tasks\Microsoft\Windows\Speech\SpeechModelDownloadTask - %system%\speech_onecore\common\SpeechModelDownload.exe  = A39D0FEA39DD9438CD0343B940827029:200704
+%system%\Tasks\Microsoft\Windows\StateRepository\MaintenanceTasks - %system%\rundll32.exe %windir%\system32\Windows.StateRepositoryClient.dll,StateRepositoryDoMaintenanceTasks = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization - %system%\Defrag.exe -c -h -g -# -m 8 -i 13500 = 662BA4DB4D348D5152EBC73F12A7AB49:245760
+%system%\Tasks\Microsoft\Windows\Subscription\EnableLicenseAcquisition - %system%\ClipRenew.exe -e = F31C87B85D7C3D44199B6D6E93E40C81:169320
+%system%\Tasks\Microsoft\Windows\Subscription\LicenseAcquisition - %system%\ClipRenew.exe  = F31C87B85D7C3D44199B6D6E93E40C81:169320
+%system%\Tasks\Microsoft\Windows\Sysmain\WsSwapAssessmentTask - %system%\rundll32.exe sysmain.dll,PfSvWsSwapAssessmentTask = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\SystemRestore\SR - %system%\SrTasks.exe ExecuteScheduledSPPCreation = A0A091F6CCF2F6C6097EC1AFDE3B6936:77824
+%system%\Tasks\Microsoft\Windows\Time Synchronization\SynchronizeTime - %system%\sc.exe start w32time task_started = FF2A4319FA5531F0D7B98DBBA9ABBD4A:98304
+%system%\Tasks\Microsoft\Windows\Time Zone\SynchronizeTimeZone - %system%\tzsync.exe  = 3DC4B6369026177CCE612A63086C4F00:71680
+%system%\Tasks\Microsoft\Windows\UNP\RunUpdateNotificationMgr - %system%\UNP\UpdateNotificationMgr.exe  = CEFDBB1F3036E5DE27543DBDAD9FCA81:370000
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Report policies - %system%\usoclient.exe ReportPolicies = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Maintenance Work - %system%\usoclient.exe StartMaintenanceWork = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Scan - %system%\usoclient.exe StartScan = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Scan Static Task - %system%\usoclient.exe StartScan = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Wake To Work - %system%\usoclient.exe StartWork = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Schedule Work - %system%\usoclient.exe StartWork = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\Start Oobe Expedite Work - %system%\usoclient.exe StartWork = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\StartOobeAppsScanAfterUpdate - %system%\usoclient.exe StartOobeAppsScanAfterUpdate = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\StartOobeAppsScan_LicenseAccepted - %system%\usoclient.exe StartOobeAppsScan = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\USO_UxBroker - %system%\MusNotification.exe  = not found
+%system%\Tasks\Microsoft\Windows\UpdateOrchestrator\UUS Failover Task - %system%\usoclient.exe HandleUusFailoverSignal = 141FFB183A3D3BDCA077125501A2A0A5:81920
+%system%\Tasks\Microsoft\Windows\UPnP\UPnPHostConfig - %system%\sc.exe config upnphost start= auto = FF2A4319FA5531F0D7B98DBBA9ABBD4A:98304
+%system%\Tasks\Microsoft\Windows\WCM\WiFiTask - %system%\wifitask.exe  = 08A2A3231AE7D798A046A186180825E0:185688
+%system%\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance - %programfiles%\Windows Defender\MpCmdRun.exe -IdleTask -TaskName WdCacheMaintenance = 4F2C9892C74315AD23E03A84FC3C15CD:925848
+%system%\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cleanup - %programfiles%\Windows Defender\MpCmdRun.exe -IdleTask -TaskName WdCleanup = 4F2C9892C74315AD23E03A84FC3C15CD:925848
+%system%\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan - %programfiles%\Windows Defender\MpCmdRun.exe Scan -ScheduleJob -ScanTrigger 55 -IdleScheduledJob = 4F2C9892C74315AD23E03A84FC3C15CD:925848
+%system%\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Verification - %programfiles%\Windows Defender\MpCmdRun.exe -IdleTask -TaskName WdVerification = 4F2C9892C74315AD23E03A84FC3C15CD:925848
+%system%\Tasks\Microsoft\Windows\Windows Error Reporting\QueueReporting - %system%\wermgr.exe -upload = 0CEED8A901F2B8BD389276C48089328A:263512
+%system%\Tasks\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange - %system%\rundll32.exe bfe.dll,BfeOnServiceStartTypeChange = 57A6B4BDF247C1A6CA08AC09A8F9B742:73728
+%system%\Tasks\Microsoft\Windows\WindowsUpdate\Scheduled Start - %system%\sc.exe start wuauserv = FF2A4319FA5531F0D7B98DBBA9ABBD4A:98304
+%system%\Tasks\Microsoft\Windows\Workplace Join\Automatic-Device-Join - %system%\dsregcmd.exe $(Arg0) $(Arg1) $(Arg2) = 438F43C47A0888EBF057A90CA6497B0A:458752
+%system%\Tasks\Microsoft\Windows\Workplace Join\Recovery-Check - %system%\dsregcmd.exe /checkrecovery = 438F43C47A0888EBF057A90CA6497B0A:458752
+%system%\Tasks\Microsoft\Windows\WwanSvc\NotificationTask - %system%\wifitask.exe wwan = 08A2A3231AE7D798A046A186180825E0:185688
+%system%\Tasks\Microsoft\XblGameSave\XblGameSaveTask - %system%\XblGameSaveTask.exe standby = D55B04838ACAAEA9727B07542761B2F3:57344
+
+[Services]
+
+1394ohci	%SystemRoot%\System32\drivers\1394ohci.sys	[Microsoft Corporation] = 784656325F8BA1CFD2FD04B7CA88AAC8:299008
+3ware	%SystemRoot%\System32\drivers\3ware.sys	[LSI] = D3ED954539ED167D4DE479AB27B3B155:108376
+aarsvc	%SystemRoot%\System32\AarSvc.dll	[Microsoft Corporation] = E989E2E5354D6721A545548B06CE7D6D:716800
+acpi	%SystemRoot%\System32\drivers\ACPI.sys	[Microsoft Corporation] = 19A3E433471ACABDA672F80D1C48CF53:755024
+acpidev	%SystemRoot%\System32\drivers\AcpiDev.sys	[Microsoft Corporation] = 1BA19D7AF3DCB34F4EF12A8EAD1521BD:57344
+acpiex	%SystemRoot%\System32\Drivers\acpiex.sys	[Microsoft Corporation] = D70BAE82E066109294F7D19AB83C02E1:169304
+acpipagr	%SystemRoot%\System32\drivers\acpipagr.sys	[Microsoft Corporation] = 72790ADEC8537AFC3FC6978BDE47F028:49152
+acpipmi	%SystemRoot%\System32\drivers\acpipmi.sys	[Microsoft Corporation] = 83ADAC8EC1C54A24ED4AABD39C3175E2:53248
+acpitime	%SystemRoot%\System32\drivers\acpitime.sys	[Microsoft Corporation] = 1E3AA6E71FC72290352E415B0F99ED44:57344
+acx01000	%SystemRoot%\system32\drivers\Acx01000.sys	[Microsoft Corporation] = 436F920A2A9679128372BE61DC50936F:737280
+adp80xx	%SystemRoot%\System32\drivers\ADP80XX.SYS	[PMC-Sierra] = 97966301BB26119B90C4014B0F620077:1136472
+afd	%SystemRoot%\system32\drivers\afd.sys	[Microsoft Corporation] = DAD2BDA30411356DFA21FF05B65C56EB:701784
+afunix	%SystemRoot%\system32\drivers\afunix.sys	[Microsoft Corporation] = CB3CC06BD461DF12DF7BA242158048CB:81920
+ahcache	%SystemRoot%\system32\DRIVERS\ahcache.sys	[Microsoft Corporation] = F37CDB4C7690F2A2B61229CC396AAF8E:372736
+ajrouter	%SystemRoot%\System32\AJRouter.dll	[Microsoft Corporation] = 21024EAE278C5194C44FE43B417E31E7:49152
+alg	%SystemRoot%\System32\alg.exe	[Microsoft Corporation] = 3EC6D5CF3D70D823A7A47104057E9D3E:110592
+amdi2c	%SystemRoot%\System32\drivers\amdi2c.sys	[Advanced Micro Devices, Inc] = D0E26E590DE1424CCC4F77D1687049EF:45568
+amdk8	%SystemRoot%\System32\drivers\amdk8.sys	[Microsoft Corporation] = AD2C3646FD9C2E4C795B800E15130A07:251216
+amdppm	%SystemRoot%\System32\drivers\amdppm.sys	[Microsoft Corporation] = 86A68A823F8C8AFC23BD7DBDE54016BC:259456
+amdsata	%SystemRoot%\System32\drivers\amdsata.sys	[Advanced Micro Devices] = 6702A30225F096B1B9FDA966B0519A8E:84312
+amdsbs	%SystemRoot%\System32\drivers\amdsbs.sys	[AMD Technologies Inc.] = 82A8E2A674794D5FFA93F3E6FE2FD700:260440
+amdxata	%SystemRoot%\System32\drivers\amdxata.sys	[Advanced Micro Devices] = 03E71A2182C900046A4E688C2A9ECFC1:28008
+appid	%SystemRoot%\system32\drivers\appid.sys	[Microsoft Corporation] = 5CBD03B446B9D0BB684E873B4F8B2EC3:247144
+appidsvc	%SystemRoot%\System32\appidsvc.dll	[Microsoft Corporation] = 3F61D5FEC3F709A388D5960FE0E98640:114688
+appinfo	%SystemRoot%\System32\appinfo.dll	[Microsoft Corporation] = B0CD672EE35970CA8C69B80F6BB583CB:303104
+applessd	%SystemRoot%\System32\drivers\AppleSSD.sys	[Apple Inc.] = 0B854A7B4E30E40342BC2838A6C5AEDB:113496
+applockerfltr	%SystemRoot%\system32\drivers\applockerfltr.sys	[Microsoft Corporation] = D404FF76C5522A01C698CF79913D1BAB:49152
+appreadiness	%SystemRoot%\system32\AppReadiness.dll	[Microsoft Corporation] = 569DC03003618E0E04064812E4D22E48:802816
+appxsvc	%SystemRoot%\system32\appxdeploymentserver.dll	[Microsoft Corporation] = BAE5B9723B3FC6BA07B695C7562606F7:6037504
+arcsas	%SystemRoot%\System32\drivers\arcsas.sys	[PMC-Sierra, Inc.] = 7C062E536A4C2071A88AE0E037A78077:132968
+asyncmac	%SystemRoot%\System32\drivers\asyncmac.sys	[Microsoft Corporation] = F13032FC977EE42BE1482E43FEB9211C:61440
+atapi	%SystemRoot%\System32\drivers\atapi.sys	[Microsoft Corporation] = 5EB4309B030968F9B884CBEF5049C473:62808
+audioendpointbuilder	%SystemRoot%\System32\AudioEndpointBuilder.dll	[Microsoft Corporation] = FF202E9BA5721D0567DE1EAA8EFBBA83:524288
+audiosrv	%SystemRoot%\System32\Audiosrv.dll	[Microsoft Corporation] = 9B6068A459A1784F95EB92F44D010187:2076672
+autotimesvc	%SystemRoot%\System32\autotimesvc.dll	[Microsoft Corporation] = 1B4A46D7E803E635F8641640DC0005F7:139264
+axinstsv	%SystemRoot%\System32\AxInstSV.dll	[Microsoft Corporation] = 0B71457B31A25AAA13883E740CBC4EDF:163840
+b06bdrv	%SystemRoot%\System32\drivers\bxvbda.sys	[QLogic Corporation] = ECCFF3AD5C93B7C18FFB4A3F96B8CB95:534872
+bam	%SystemRoot%\system32\drivers\bam.sys	[Microsoft Corporation] = FA055A41C0130EE28570DAA18F9F881B:116056
+basicdisplay	%SystemRoot%\System32\DriverStore\FileRepository\basicdisplay.inf_amd64_02da009b3d736cc1\BasicDisplay.sys	[Microsoft Corporation] = 42D751026CF9698AA4FFB1153AD047B5:94208
+basicrender	%SystemRoot%\System32\DriverStore\FileRepository\basicrender.inf_amd64_f7df692e0f5ee07f\BasicRender.sys	[Microsoft Corporation] = E40A37550E3059219493C79AD44DA00C:73728
+bcastdvruserservice	%SystemRoot%\System32\BcastDVRUserService.dll	[Microsoft Corporation] = F2A1D1BC2589A4BBB3F1815576A13BE7:1540096
+bdesvc	%SystemRoot%\System32\bdesvc.dll	[Microsoft Corporation] = B7C696EE85B2EFE80BECA8AB99493BD7:643072
+bfe	%SystemRoot%\System32\bfe.dll	[Microsoft Corporation] = 5804C2342B8ADFE207C37FA590910617:933888
+bfs	%SystemRoot%\system32\drivers\bfs.sys	[Microsoft Corporation] = FFD0942DC63C6B96B68D95A582F0B21B:91480
+bindflt	%SystemRoot%\system32\drivers\bindflt.sys	[Microsoft Corporation] = CF0AE77FC2661F31C1BD6C65C6909DE3:173424
+bits	%SystemRoot%\System32\qmgr.dll	[Microsoft Corporation] = D76247554FBADA869B4597F5C7713707:1388544
+bluetoothuserservice	%SystemRoot%\System32\Microsoft.Bluetooth.UserService.dll	[Microsoft Corporation] = B40E2237257B8C0F59819C5B3603152E:491520
+bowser	%SystemRoot%\system32\DRIVERS\bowser.sys	[Microsoft Corporation] = 369B6ACFB7AB68DDAD8AB791575F4B0B:155648
+brokerinfrastructure	%SystemRoot%\System32\psmsrv.dll	[Microsoft Corporation] = 914F4F1DFE60A09F1AA7264EDA44E533:290816
+btagservice	%SystemRoot%\System32\BTAGService.dll	[Microsoft Corporation] = BA44FA919531E82DB06AC77036877B3A:1056768
+btha2dp	%SystemRoot%\System32\drivers\BthA2dp.sys	[Microsoft Corporation] = 44CDFF153DEBCBDA573FB5D5E076F93E:532480
+bthavctpsvc	%SystemRoot%\System32\BthAvctpSvc.dll	[Microsoft Corporation] = B9E497551A38BFCF33ABF33E651D4370:393216
+bthenum	%SystemRoot%\System32\drivers\BthEnum.sys	[Microsoft Corporation] = 661AEAD049FBB0B70ECD15EC65629E07:143360
+bthhfenum	%SystemRoot%\System32\drivers\bthhfenum.sys	[Microsoft Corporation] = F71A2F273A322C2BBC78FE35A19B1B91:184320
+bthleenum	%SystemRoot%\System32\drivers\Microsoft.Bluetooth.Legacy.LEEnumerator.sys	[Microsoft Corporation] = D0904F677D4959E8919A246552C747FA:143360
+bthmini	%SystemRoot%\System32\drivers\BTHMINI.sys	[Microsoft Corporation] = 27B89D1110B46EDF19501B6DA85CA9A5:86016
+bthmodem	%SystemRoot%\System32\drivers\bthmodem.sys	[Microsoft Corporation] = 67DC3B5761703A239C65D7B4487E58A8:106496
+bthport	%SystemRoot%\System32\drivers\BTHport.sys	[Microsoft Corporation] = A627A32A1481A8307594673C8DB26426:2052096
+bthserv	%SystemRoot%\system32\bthserv.dll	[Microsoft Corporation] = 01581D02F1DDC2D118A7F4F68A23FC5F:270336
+bthusb	%SystemRoot%\System32\drivers\BTHUSB.sys	[Microsoft Corporation] = 38A6A3193FCD5E110B4D1E988BA344DD:139264
+bttflt	%SystemRoot%\System32\drivers\bttflt.sys	[Microsoft Corporation] = BE67F120EB152214A984E3DC609FF6EE:79184
+buttonconverter	%SystemRoot%\System32\drivers\buttonconverter.sys	[Microsoft Corporation] = 76856037B6007B99D45C1043BC90BC58:90112
+cad	%SystemRoot%\System32\drivers\CAD.sys	[Microsoft Corporation] = 020D3C8EC9E31FBB0AB97CB731D27541:99672
+camsvc	%SystemRoot%\system32\CapabilityAccessManager.dll	[Microsoft Corporation] = 12E8546D44A12BA426D41677929A0256:843776
+captureservice	%SystemRoot%\System32\CaptureService.dll	[Microsoft Corporation] = E3A045EA5BC5B94134DB8EBBF479D193:176128
+cbdhsvc	%SystemRoot%\System32\cbdhsvc.dll	[Microsoft Corporation] = 9F79A9034419B0004834DE38C43D5D3C:1056768
+cdfs	%SystemRoot%\system32\DRIVERS\cdfs.sys	[Microsoft Corporation] = 8D74B96430DDC074D1A21A2E93514696:131072
+cdpsvc	%SystemRoot%\System32\CDPSvc.dll	[Microsoft Corporation] = FA5365F25EC1F3885EABA6CB3230C399:708608
+cdpusersvc	%SystemRoot%\System32\CDPUserSvc.dll	[Microsoft Corporation] = 661722239FE4AB978F056F32E9B4C867:606208
+cdrom	%SystemRoot%\System32\drivers\cdrom.sys	[Microsoft Corporation] = BD94BB6159F87B6D4D3E10CDC20C069A:204800
+certpropsvc	%SystemRoot%\System32\certprop.dll	[Microsoft Corporation] = 7CFFFE559D0C0D22EF767BEA89789E62:221184
+cht4iscsi	%SystemRoot%\System32\drivers\cht4sx64.sys	[Chelsio Communications] = BA16B4FE0FFE44B8E25B890F917D22DB:320880
+cht4vbd	%SystemRoot%\System32\drivers\cht4vx64.sys	[Chelsio Communications] = F8FE5CA9986B66492F09CA8FAB66F71F:1854832
+circlass	%SystemRoot%\System32\drivers\circlass.sys	[Microsoft Corporation] = C86CDE2F4DCE23CE97749BBB00769593:90112
+cldflt	%SystemRoot%\system32\drivers\cldflt.sys	[Microsoft Corporation] = 32C8BAAEB7907E622F61A1F5A393460C:565248
+clfs	%SystemRoot%\System32\drivers\CLFS.sys	[Microsoft Corporation] = AFE47A465C70F69F004EC4DFFF8498A5:456024
+clipsvc	%SystemRoot%\System32\ClipSVC.dll	[Microsoft Corporation] = 2C853C04FE9D9060F626AB19C9358D75:1286448
+cmbatt	%SystemRoot%\System32\drivers\CmBatt.sys	[Microsoft Corporation] = 8E0774EDE8F7D8EAE9CE414DAC1EEB1A:73728
+cng	%SystemRoot%\System32\Drivers\cng.sys	[Microsoft Corporation] = 6EEB5CB5A943DAFFB1F464097BBAD23C:782336
+cnghwassist	%SystemRoot%\System32\DRIVERS\cnghwassist.sys	[Microsoft Corporation] = 7121C40A51F9238DE1E020A16A422E96:75088
+compositebus	%SystemRoot%\System32\DriverStore\FileRepository\compositebus.inf_amd64_2e50c98177d80a40\CompositeBus.sys	[Microsoft Corporation] = 6A99D2C9BCFFCE0B1F40E04BB83F5B0E:81920
+comsysapp	%SystemRoot%\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}	[Microsoft Corporation] = 144FA51A15E98D84D28EEAB815BC9A8B:46416
+condrv	%SystemRoot%\System32\drivers\condrv.sys	[Microsoft Corporation] = 6521F604F59EB25C8A6A0439875A1A00:87376
+consentuxusersvc	%SystemRoot%\System32\ConsentUxClient.dll	[Microsoft Corporation] = 32A63F3140FDAD3636148530EB5057ED:204800
+coremessagingregistrar	%SystemRoot%\system32\coremessaging.dll	[Microsoft Corporation] = A324B8F374B59BB3795CCA12A0207C2C:1274032
+credentialenrollmentmanagerusersvc	%SystemRoot%\system32\CredentialEnrollmentManager.exe	[Microsoft Corporation] = 48CA805765B0B68D9236A792054C5E70:406336
+credentialenrollmentmanagerusersvc_3d59e	%system%\CredentialEnrollmentManager.exe	[Microsoft Corporation] = 48CA805765B0B68D9236A792054C5E70:406336
+cryptsvc	%SystemRoot%\system32\cryptsvc.dll	[Microsoft Corporation] = 03CBD710C8373470159F9CADE0DCB103:126976
+dam	%SystemRoot%\system32\drivers\dam.sys	[Microsoft Corporation] = 1570DE6A006F1608882E7E9DE5F0822C:140656
+dcomlaunch	%SystemRoot%\system32\rpcss.dll	[Microsoft Corporation] = 2E6EF206A2D62763AFE01B4B94C54DB0:1437696
+dcsvc	%SystemRoot%\system32\dcsvc.dll	[Microsoft Corporation] = 1BCA3D53DAD8B119FEFB52889E753547:802816
+defragsvc	%Systemroot%\System32\defragsvc.dll	[Microsoft Corporation] = 24CFEF01DFB20ADDE700E240AC2E17C1:552960
+deviceassociationbrokersvc	%SystemRoot%\System32\deviceaccess.dll	[Microsoft Corporation] = C19B6F141DC0F0F2024EA6E19CA1A13C:265864
+deviceassociationservice	%SystemRoot%\system32\das.dll	[Microsoft Corporation] = 59B1D76712AD2D3E36522E2720755CFD:622592
+deviceinstall	%SystemRoot%\system32\umpnpmgr.dll	[Microsoft Corporation] = 7CFED937D857D12702E1F7E1FF553A19:167936
+devicepickerusersvc	%SystemRoot%\System32\Windows.Devices.Picker.dll	[Microsoft Corporation] = 62CAFCBEAFEE7D89EDAA5DB5219B0372:495616
+devicesflowusersvc	%SystemRoot%\System32\DevicesFlowBroker.dll	[Microsoft Corporation] = 1761119B5BCE9C34F888AF5573BB057A:634880
+devquerybroker	%SystemRoot%\system32\DevQueryBroker.dll	[Microsoft Corporation] = 8B0DAE6203BAE5D4886D7E937952DDCB:53248
+dfsc	%SystemRoot%\System32\Drivers\dfsc.sys	[Microsoft Corporation] = E12B18875B3E81F62A87D76992F87E7C:184320
+dhcp	%SystemRoot%\system32\dhcpcore.dll	[Microsoft Corporation] = 4C29BF74E5BF6CC793120987DE18126B:430128
+diagnosticshub.standardcollector.service	%SystemRoot%\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe	[Microsoft Corporation] = 601E119495BA094D686F18ABE2FDF145:114688
+diagsvc	%systemroot%\system32\DiagSvc.dll	[Microsoft Corporation] = B1229DB887F684833EA0AAD949761335:229376
+diagtrack	%SystemRoot%\system32\diagtrack.dll	[Microsoft Corporation] = 9FE82CFB9DD28333CCAE1578700713C9:4636672
+disk	%SystemRoot%\System32\drivers\disk.sys	[Microsoft Corporation] = F5D85E57FE2FBC569975093F666EEF93:140616
+dispbrokerdesktopsvc	%SystemRoot%\System32\DispBroker.Desktop.dll	[Microsoft Corporation] = 9FD98C771D1480EC4718C2AB5533233E:495616
+displayenhancementservice	%SystemRoot%\system32\Microsoft.Graphics.Display.DisplayEnhancementService.dll	[Microsoft Corporation] = E3E873B30244FD1868CDFD556FA290B0:1269760
+dmenrollmentsvc	%systemroot%\system32\Windows.Internal.Management.dll	[Microsoft Corporation] = 9D414F90E32C08F68825FB0F565CBFB1:1191936
+dmvsc	%SystemRoot%\System32\drivers\dmvsc.sys	[Microsoft Corporation] = 389543027FF7DF7D362D9BF161E6B4F4:99664
+dmwappushservice	%SystemRoot%\system32\dmwappushsvc.dll	[Microsoft Corporation] = 37977D6755D2679CDD747180D38CE332:143360
+dnscache	%SystemRoot%\System32\dnsrslvr.dll	[Microsoft Corporation] = 961A6F5AD85A0A2B363A89FB28892790:472480
+dosvc	%SystemRoot%\system32\dosvc.dll	[Microsoft Corporation] = D4B31C40317C3E8AB7614EFD4B99CE20:90112
+dot3svc	%SystemRoot%\System32\dot3svc.dll	[Microsoft Corporation] = 01771CFC5971D149809707C00190485F:409600
+dps	%SystemRoot%\system32\dps.dll	[Microsoft Corporation] = 233859388615158A650F9AD80A2D500F:180224
+drmkaud	%SystemRoot%\System32\drivers\drmkaud.sys	[Microsoft Corporation] = 4B40BC50D3EB69570DF1B21E6F094B90:50976
+dsmsvc	%SystemRoot%\System32\DeviceSetupManager.dll	[Microsoft Corporation] = 3110580FA5BDFC4A7846B226129513FA:299008
+dssvc	%SystemRoot%\System32\DsSvc.dll	[Microsoft Corporation] = F59F3BC9EC7B8FB7FA51AA1A305973F0:180224
+dusmsvc	%SystemRoot%\System32\dusmsvc.dll	[Microsoft Corporation] = 378B3CBAB2F263EBFA45A201D24D35CE:430080
+dxgkrnl	%SystemRoot%\System32\drivers\dxgkrnl.sys	[Microsoft Corporation] = D554F814DEAB0CDD857F93118AEF5066:4687184
+e1i68x64	%SystemRoot%\System32\drivers\e1i68x64.sys	[Intel Corporation] = 24AC8364A0DC46B5807161FA38BB4426:576000
+eaphost	%SystemRoot%\System32\eapsvc.dll	[Microsoft Corporation] = A1B4A434616BBA4F43A36CABDBA460E5:122880
+ebdrv	%SystemRoot%\System32\drivers\evbda.sys	[Marvell Semiconductor Inc.] = FEC6B6E192AA6ECD70E54D4FA34203E9:3441512
+ebdrv0	%SystemRoot%\System32\drivers\evbd0a.sys	[QLogic Corporation] = 24B6B247A7EB3F5E6C093706BD079040:3424104
+edgeupdate	"%programfiles(x86)%\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /svc	[Microsoft Corporation] = D7DEC1752172A55A855DA132E6B685CB:206240
+edgeupdatem	"%programfiles(x86)%\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /medsvc	[Microsoft Corporation] = D7DEC1752172A55A855DA132E6B685CB:206240
+efs	%SystemRoot%\System32\lsass.exe	[Microsoft Corporation] = 6394BC90AB7F53AEFB4884DB38BAEAD8:84056
+ehstorclass	%SystemRoot%\System32\drivers\EhStorClass.sys	[Microsoft Corporation] = 5F8C80621D5C4C442817289A72AC4C7A:152944
+ehstortcgdrv	%SystemRoot%\System32\drivers\EhStorTcgDrv.sys	[Microsoft Corporation] = B40EC3D7B9B2ECBC05AF831345C33BF0:165216
+embeddedmode	%SystemRoot%\System32\embeddedmodesvc.dll	[Microsoft Corporation] = A365B2AB20675A41E197EF004271892C:176128
+entappsvc	%SystemRoot%\system32\EnterpriseAppMgmtSvc.dll	[Microsoft Corporation] = 6D2B69FC1F2C423ED682FB7392963081:647168
+errdev	%SystemRoot%\System32\drivers\errdev.sys	[Microsoft Corporation] = D6F60AF46C46830CCBE9EE17CBE6CDB4:53248
+eventlog	%SystemRoot%\System32\wevtsvc.dll	[Microsoft Corporation] = CB02672C81FE3847017CC36D1536D97A:1335296
+eventsystem	%systemroot%\system32\es.dll	[Microsoft Corporation] = F4F05C532BAEEE96BA8E331D723880C9:438272
+executioncontext	%SystemRoot%\System32\Drivers\ExecutionContext.sys	[Microsoft Corporation] = 8610012E132137EA131C96F611CA693F:75088
+fdc	%SystemRoot%\System32\drivers\fdc.sys	[Microsoft Corporation] = 4AE656CB6A334C4BF82B4C8F35E83694:69632
+fdphost	%SystemRoot%\system32\fdPHost.dll	[Microsoft Corporation] = 669EBAED4FE363C162B4377A6C657803:40960
+fdrespub	%SystemRoot%\system32\fdrespub.dll	[Microsoft Corporation] = BD0AC541DEC3388DB91A27656D7F3F70:57344
+fhsvc	%SystemRoot%\system32\fhsvc.dll	[Microsoft Corporation] = 0BCDDC201B5ACF2694E2B28EA59F606D:139264
+filecrypt	%SystemRoot%\system32\drivers\filecrypt.sys	[Microsoft Corporation] = E0A8C2DC2EDA98E745C89FE6D861494F:90112
+fileinfo	%SystemRoot%\System32\drivers\fileinfo.sys	[Microsoft Corporation] = DE149042C4D3EE4CA107F09BCD3519FA:124240
+filetrace	%SystemRoot%\system32\drivers\filetrace.sys	[Microsoft Corporation] = 035D604262476050D5530A463011B4E6:73728
+flpydisk	%SystemRoot%\System32\drivers\flpydisk.sys	[Microsoft Corporation] = 3C23B43E980C2584C428A2669BAD6C59:65536
+fltmgr	%SystemRoot%\system32\drivers\fltmgr.sys	[Microsoft Corporation] = DFF5B7FE6D9A4827364F91D6B3096096:488800
+fontcache	%SystemRoot%\system32\FntCache.dll	[Microsoft Corporation] = F97B9AEF6199E932C70710D37F113474:1372160
+fontcache3.0.0.0	%systemroot%\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe	[Microsoft Corporation] = CFBBD1F67AD242A460D3FF8C5752A816:45992
+frameserver	%SystemRoot%\system32\FrameServer.dll	[Microsoft Corporation] = 5DE117822C9EA562721B47B80C363E62:1306624
+frameservermonitor	%SystemRoot%\system32\FrameServerMonitor.dll	[Microsoft Corporation] = 5202643EE6F793AD19F133CA00D77B20:348160
+fsdepends	%SystemRoot%\System32\drivers\FsDepends.sys	[Microsoft Corporation] = 0987485D57B546EC3FA60C6A36A7406D:103760
+fvevol	%SystemRoot%\System32\DRIVERS\fvevol.sys	[Microsoft Corporation] = 0419E8D5B3916A19C11C7D8C52F3B762:877936
+gencounter	%SystemRoot%\System32\drivers\vmgencounter.sys	[Microsoft Corporation] = E78909F9CF87D44EA29A294C5819071B:58720
+genericusbfn	%SystemRoot%\System32\DriverStore\FileRepository\genericusbfn.inf_amd64_cea150c98a1ca844\genericusbfn.sys	[Microsoft Corporation] = BB2C1DDE1C5B2BB2420B52A75E7C06AE:61440
+genpass	%SystemRoot%\System32\DriverStore\FileRepository\genpass.inf_amd64_bef88a423225ecdc\genpass.sys	[Microsoft Corporation] = 9F90949B9FEB4061DB1E57EDA85CB611:62800
+googlechromeelevationservice	"%programfiles%\Google\Chrome\Application\139.0.7258.139\elevation_service.exe"	[Google LLC] = C7C5291CB61DA485B56443208BFB84B0:2335384
+googleupdaterinternalservice141.0.7340.0	"%programfiles(x86)%\Google\GoogleUpdater\141.0.7340.0\updater.exe" --system --windows-service --service=update-internal	[Google LLC] = 196C68FE20311349025D04901AA6B143:6813336
+googleupdaterservice141.0.7340.0	"%programfiles(x86)%\Google\GoogleUpdater\141.0.7340.0\updater.exe" --system --windows-service --service=update	[Google LLC] = 196C68FE20311349025D04901AA6B143:6813336
+gpioclx0101	%SystemRoot%\System32\Drivers\msgpioclx.sys	[Microsoft Corporation] = 102C7CB853B1E1301FEACB655A4E3BC0:218464
+gpsvc	%SystemRoot%\System32\gpsvc.dll	[Microsoft Corporation] = 741724B975FD870D6952DE0933F0FFFA:1376256
+graphicsperfsvc	%SystemRoot%\System32\GraphicsPerfSvc.dll	[Microsoft Corporation] = 6544766CC102C1B3B1ADC2C2DCC3EED3:266240
+gupdate	"%programfiles(x86)%\Google\Update\GoogleUpdate.exe" /svc	[Google LLC] = 196C68FE20311349025D04901AA6B143:6813336
+gupdatem	"%programfiles(x86)%\Google\Update\GoogleUpdate.exe" /medsvc	[Google LLC] = 196C68FE20311349025D04901AA6B143:6813336
+hdaudaddservice	%SystemRoot%\System32\drivers\HdAudio.sys	[Microsoft Corporation] = 7F4FAB2E5AC5DFB1C2682363240E19AB:528384
+hdaudbus	%SystemRoot%\System32\drivers\HDAudBus.sys	[Microsoft Corporation] = 5BD21405A85342B3B8E92E06611870B4:192512
+hidbatt	%SystemRoot%\System32\drivers\HidBatt.sys	[Microsoft Corporation] = A8EF08AD12C666CC851A24628BB0F730:71016
+hidbth	%SystemRoot%\System32\drivers\hidbth.sys	[Microsoft Corporation] = 9DD32A78608505A1BC0F7E8A07273B17:151552
+hidi2c	%SystemRoot%\System32\drivers\hidi2c.sys	[Microsoft Corporation] = 9FDDD58497625679E8C56EAB971D8EFA:102400
+hidinterrupt	%SystemRoot%\System32\drivers\hidinterrupt.sys	[Microsoft Corporation] = 461A36729DC63FFFC37556B5A23A058C:91472
+hidir	%SystemRoot%\System32\drivers\hidir.sys	[Microsoft Corporation] = DC1E119288709192791BC946E6701432:81920
+hidserv	%SystemRoot%\system32\hidserv.dll	[Microsoft Corporation] = 3C5F27BDDB85AFAF4818472927ED1C5C:73728
+hidspi	%SystemRoot%\System32\drivers\hidspi.sys	[Microsoft Corporation] = 7509893BB32A6F71E4078792CFDFE806:139264
+hidspicx	%SystemRoot%\system32\drivers\HidSpiCx.sys	[Microsoft Corporation] = AA95537C94C429403C4F3B5B8F211EF8:126976
+hidusb	%SystemRoot%\System32\drivers\hidusb.sys	[Microsoft Corporation] = D53B892E8651190FF6913B361615ABD5:77824
+hpsamd	%SystemRoot%\System32\drivers\HpSAMD.sys	[Hewlett-Packard Company] = 1B093347F7B2ADE87347BF22C6720B7A:65360
+hsp	%SystemRoot%\System32\drivers\Hsp.sys	[Microsoft Corporation] = B3FC254B38BAB7FD0DD170AF518CE670:124264
+http	%SystemRoot%\system32\drivers\HTTP.sys	[Microsoft Corporation] = BCFA468C268E7E131DF6594AB66DE3C2:1721680
+hvcrash	%SystemRoot%\System32\drivers\hvcrash.sys	[Microsoft Corporation] = F357CA355FEAE7C83253D706A9628DB5:75112
+hvhost	%SystemRoot%\System32\hvhostsvc.dll	[Microsoft Corporation] = DB2944A8B48369069CF173C4FB38A933:91496
+hvservice	%SystemRoot%\System32\drivers\hvservice.sys	[Microsoft Corporation] = 20BA68E2FCFEA10B3B94A2F7F7744E3A:91472
+hwnclx0101	%SystemRoot%\System32\Drivers\mshwnclx.sys	[Microsoft Corporation] = F44EDEAB2C1D8AFE2E77A399C4BF52CF:61440
+hwpolicy	%SystemRoot%\System32\drivers\hwpolicy.sys	[Microsoft Corporation] = 0BEA21439FDB1A846C0BB1BE9C19538B:79200
+hyperkbd	%SystemRoot%\System32\drivers\hyperkbd.sys	[Microsoft Corporation] = 469B2BE10E9A5A533B34AE3994978F8D:62800
+hypervideo	%SystemRoot%\System32\drivers\HyperVideo.sys	[Microsoft Corporation] = AC9F93F5734B73D4D494A5F57382E2D2:79200
+i8042prt	%SystemRoot%\System32\drivers\i8042prt.sys	[Microsoft Corporation] = 566132924EBEEAE1A41FB521B56E0AAA:159744
+ialpss2i_i2c_cnl	%SystemRoot%\System32\drivers\iaLPSS2i_I2C_CNL.sys	[Intel Corporation] = 897478D8FACEAE8681F6F3502201EC68:177152
+iastoravc	%SystemRoot%\System32\drivers\iaStorAVC.sys	[Intel Corporation] = 06E6C320E82B4AEC1D5EF2AEAB00BBE2:885584
+iastorv	%SystemRoot%\System32\drivers\iaStorV.sys	[Intel Corporation] = 8B79DFDC65E4F61DAF96AE9FE0CEC0B8:413008
+ibbus	%SystemRoot%\System32\drivers\ibbus.sys	[Mellanox] = 77C995372FF8AE41DD100CE84ECE2638:559976
+icssvc	%SystemRoot%\System32\tetheringservice.dll	[Microsoft Corporation] = 23E44851A1247DD5E69315516C07C557:258048
+ikeext	%SystemRoot%\System32\ikeext.dll	[Microsoft Corporation] = 80361678B335D7A4413ED0DB89623378:1531904
+indirectkmd	%SystemRoot%\System32\drivers\IndirectKmd.sys	[Microsoft Corporation] = 7FA522EECC2731070DCEEE698D0F7EFC:77824
+installservice	%SystemRoot%\system32\InstallService.dll	[Microsoft Corporation] = 6BD8AFB269992D269AD31B12293750FF:2801664
+intelide	%SystemRoot%\System32\drivers\intelide.sys	[Microsoft Corporation] = 214747E279607FEE8D22721FC29BD32F:58704
+intelpep	%SystemRoot%\System32\drivers\intelpep.sys	[Microsoft Corporation] = 1B6D52BCA62605D87B8D0DB531B8BE11:517616
+intelpmax	%SystemRoot%\System32\drivers\intelpmax.sys	[Microsoft Corporation] = 0FC603D333A49ED1975A25B087E98A06:65536
+intelpmt	%SystemRoot%\System32\drivers\IntelPMT.sys	[Microsoft Corporation] = 1F9DEA4BD6F28E74CE822D4FEF7BD2EA:91688
+intelppm	%SystemRoot%\System32\drivers\intelppm.sys	[Microsoft Corporation] = 4AC1B5AFB764463B99E39D55A90F3D72:288128
+inventorysvc	%systemroot%\system32\inventorysvc.dll	[Microsoft Corporation] = 1A77DB20EDB5C678B01978DD7EF7BE94:304480
+iorate	%SystemRoot%\system32\drivers\iorate.sys	[Microsoft Corporation] = 94DB19E80FF33B5BCBBFB7B2B017B1A9:87392
+ipfilterdriver	%SystemRoot%\system32\DRIVERS\ipfltdrv.sys	[Microsoft Corporation] = 81348EDD437F5B360D1C37A629874692:118784
+iphlpsvc	%SystemRoot%\System32\iphlpsvc.dll	[Microsoft Corporation] = 6678E662168BC5AAA301BC7D43BF4CFE:843776
+ipmidrv	%SystemRoot%\System32\drivers\IPMIDrv.sys	[Microsoft Corporation] = 59105F6501C0EAD5D3D145C6522962D2:148816
+ipnat	%SystemRoot%\System32\drivers\ipnat.sys	[Microsoft Corporation] = 506BD99BC1A5936585DA3CC6A1CD7D13:258048
+ipt	%SystemRoot%\System32\drivers\ipt.sys	[Microsoft Corporation] = EA5916419BF9982B38DDA63E7BAA6998:99688
+ipxlatcfgsvc	%SystemRoot%\System32\IpxlatCfg.dll	[Microsoft Corporation] = B222988FEB4E5427BF7D0B9E6558E310:81920
+isapnp	%SystemRoot%\System32\drivers\isapnp.sys	[Microsoft Corporation] = DA8325228D27B14051F975B9A64E6C77:54624
+iscsiprt	%SystemRoot%\System32\drivers\msiscsi.sys	[Microsoft Corporation] = 70972A28E4FB9AEF706C1A5BFDA5F54C:333168
+itsas35i	%SystemRoot%\System32\drivers\ItSas35i.sys	[Avago Technologies] = 345C0CD4FF42C8B3C2EDC2294BA0C8A1:187224
+kbdclass	%SystemRoot%\System32\drivers\kbdclass.sys	[Microsoft Corporation] = F4DC3F86B0A9E9C8C4519054DC0D0972:95576
+kbdhid	%SystemRoot%\System32\drivers\kbdhid.sys	[Microsoft Corporation] = 5833CDE7D6A11D5EB9C07F307AF3AD25:73728
+kdnic	%SystemRoot%\System32\drivers\kdnic.sys	[Microsoft Corporation] = 7A1BA4FCD5116E250A1C29227A570FBC:70992
+keyiso	%SystemRoot%\system32\lsass.exe	[Microsoft Corporation] = 6394BC90AB7F53AEFB4884DB38BAEAD8:84056
+ksecdd	%SystemRoot%\System32\Drivers\ksecdd.sys	[Microsoft Corporation] = 49850558F9472A44EA2E3090B219717D:189776
+ksecpkg	%SystemRoot%\System32\Drivers\ksecpkg.sys	[Microsoft Corporation] = B2EB9A81B5D0D2C1DBEA5B9545D58718:218456
+ksthunk	%SystemRoot%\system32\drivers\ksthunk.sys	[Microsoft Corporation] = 5C7837F88FCD8FA52F8EA01AC81BA1B4:65536
+ktmrm	%systemroot%\system32\msdtckrm.dll	[Microsoft Corporation] = C2D048E8508812E398B2A8C7E1A74F0D:397312
+lanmanserver	%SystemRoot%\system32\srvsvc.dll	[Microsoft Corporation] = 6555A0C3A4E0C17D903530684D043661:344064
+lanmanworkstation	%SystemRoot%\System32\wkssvc.dll	[Microsoft Corporation] = BE4005231C1B7791FFFB28F1F7DCCC67:331776
+lfsvc	%SystemRoot%\System32\lfsvc.dll	[Microsoft Corporation] = 0EA1E55382C44DD2BFB53E9A3EC081DB:69632
+licensemanager	%SystemRoot%\system32\LicenseManagerSvc.dll	[Microsoft Corporation] = D49B41D507ADE30C9713BA98D225742A:143360
+livetuner2pm	%programfiles(x86)%\Ashampoo WinOptimizer\LiveTuner64.sys	[] = A3ED0B6A711F40CAE27146E7EC10AED7:24432
+lltdio	%SystemRoot%\system32\drivers\lltdio.sys	[Microsoft Corporation] = CDFBEA7934E5DEC8BDEBAA01B9CA2024:102400
+lltdsvc	%SystemRoot%\System32\lltdsvc.dll	[Microsoft Corporation] = 85D22265EF6788B69380046396620AC4:303104
+lmhosts	%SystemRoot%\System32\lmhsvc.dll	[Microsoft Corporation] = 7C9F37145D5A28A76C92C74D3B3CCB2E:59240
+lsi_sas	%SystemRoot%\System32\drivers\lsi_sas.sys	[LSI Corporation] = 21034F30839F59F1DF4B80E297DD32F3:109920
+lsi_sas2i	%SystemRoot%\System32\drivers\lsi_sas2i.sys	[LSI Corporation] = E7EAD3E16C26908D976AB56F64C0EE4F:125280
+lsi_sas3i	%SystemRoot%\System32\drivers\lsi_sas3i.sys	[Avago Technologies] = 1415A3E7C9B57B3DCFEB4023C8D386CF:138600
+lsm	%SystemRoot%\System32\lsm.dll	[Microsoft Corporation] = CA5573159F7578E5720EE1CF51EF5EA8:888832
+luafv	%SystemRoot%\system32\drivers\luafv.sys	[Microsoft Corporation] = 1DA7476C18CB94AC3839D23E7BC3137F:167936
+lxpsvc	%SystemRoot%\System32\LanguageOverlayServer.dll	[Microsoft Corporation] = 64078C0B36DFBB2E5BA36BB7D57884A2:552960
+mapsbroker	%SystemRoot%\System32\moshost.dll	[Microsoft Corporation] = 5B770F405B5749AD55078CDFC0822974:118784
+mausbhost	%SystemRoot%\System32\drivers\mausbhost.sys	[Microsoft Corporation] = 7A9C433EA9FF4F95E8851571DBC155BD:566632
+mausbip	%SystemRoot%\System32\drivers\mausbip.sys	[Microsoft Corporation] = E56C167A220333FA8F871808817A4FD5:99664
+mbbcx	%SystemRoot%\system32\drivers\MbbCx.sys	[Microsoft Corporation] = 2427100267AC8A2428171F320ABF5D4F:454656
+mcpmanagementservice	%SystemRoot%\System32\McpManagementService.dll	[Microsoft Corporation] = B7E70846D0BFBB1A9DC639E6B45EC1B1:274432
+megasas2i	%SystemRoot%\System32\drivers\MegaSas2i.sys	[Avago Technologies] = F9C04A8DA02AFC8FACD01805B3B7669C:81752
+megasas35i	%SystemRoot%\System32\drivers\megasas35i.sys	[Broadcom Inc] = AD1682556BF7F28976551AC76C653C6C:101224
+megasr	%SystemRoot%\System32\drivers\megasr.sys	[LSI Corporation, Inc.] = 003763D79E24ADFDF9D0784830123944:576856
+messagingservice	%SystemRoot%\System32\MessagingService.dll	[Microsoft Corporation] = 6CB868F4085AB7BA48AB0B4CC8749AA6:106496
+microsoftedgeelevationservice	"%programfiles(x86)%\Microsoft\Edge\Application\112.0.1722.48\elevation_service.exe"	[Microsoft Corporation] = FC633D07D128944D97DF0833B8D3685D:2315168
+microsoft_bluetooth_avrcptransport	%SystemRoot%\System32\drivers\Microsoft.Bluetooth.AvrcpTransport.sys	[Microsoft Corporation] = 78EB659841FD48F9D036E6AE41651A3A:98304
+mixedrealityopenxrsvc	%SystemRoot%\System32\MixedRealityRuntime.dll	[Microsoft Corporation] = 6DFF0AE9CD5F13D0DDB4A95ED36549AF:166672
+mlx4_bus	%SystemRoot%\System32\drivers\mlx4_bus.sys	[Mellanox] = F65BD98B92AA6B356C3D711061C275B1:1132392
+mmcss	%SystemRoot%\system32\drivers\mmcss.sys	[Microsoft Corporation] = 75CB51C3BD409D0BB30A709FA9699AC7:90112
+modem	%SystemRoot%\system32\drivers\modem.sys	[Microsoft Corporation] = 4BCC78A7B69392F47C140486B901B9EA:81920
+monitor	%SystemRoot%\System32\drivers\monitor.sys	[Microsoft Corporation] = 16AF40AB6DD71B0BFDB535A2AF0672EE:122880
+mouclass	%SystemRoot%\System32\drivers\mouclass.sys	[Microsoft Corporation] = 58FE19BF2404C5D8694377275296A6C0:95592
+mouhid	%SystemRoot%\System32\drivers\mouhid.sys	[Microsoft Corporation] = F4C1F91618F4E2A1F11CA38EA9254FA9:69632
+mountmgr	%SystemRoot%\System32\drivers\mountmgr.sys	[Microsoft Corporation] = 0C0C91DE35273001D356C33868FAFE7A:136544
+mpi3drvi	%SystemRoot%\System32\drivers\mpi3drvi.sys	[Broadcom Limited] = B1744913F3EF23C6D9257E25FE8584F8:90472
+mpksl61d49c70	%commonappdata%\Microsoft\Windows Defender\Definition Updates\{2F7254F2-84CA-47A8-A1CF-83641036A050}\MpKsl61d49c70.sys	[Microsoft Corporation] = A82FCB06212B3F442F43B91EBE08877B:73952
+mpkslab10ed7e	%commonappdata%\Microsoft\Windows Defender\Definition Updates\{2F7254F2-84CA-47A8-A1CF-83641036A050}\MpKslab10ed7e.sys	[Microsoft Corporation] = A82FCB06212B3F442F43B91EBE08877B:73952
+mpsdrv	%SystemRoot%\System32\drivers\mpsdrv.sys	[Microsoft Corporation] = AF464453079539489FC20A1DC4CE5B35:110592
+mpssvc	%SystemRoot%\system32\mpssvc.dll	[Microsoft Corporation] = C740A25253C11AFC0E517E348E9EE88C:1282048
+mrxdav	%SystemRoot%\system32\drivers\mrxdav.sys	[Microsoft Corporation] = 7E10C0F17AB9B157D7240E4564D1A956:196608
+mrxsmb	%SystemRoot%\system32\DRIVERS\mrxsmb.sys	[Microsoft Corporation] = 3CF6061831576E7FDED5C480A46755D5:660816
+mrxsmb20	%SystemRoot%\system32\DRIVERS\mrxsmb20.sys	[Microsoft Corporation] = AD8FD1C6609F8BA27CF00CFC66FEB2F5:329104
+msbridge	%SystemRoot%\System32\drivers\bridge.sys	[Microsoft Corporation] = 870B6B3B9B0E5BC01CB5C94502BFCE38:159744
+msdtc	%SystemRoot%\System32\msdtc.exe	[Microsoft Corporation] = 5D4EE51E810E5780BC8910899BAEAB8A:167936
+msgpiowin32	%SystemRoot%\System32\drivers\msgpiowin32.sys	[Microsoft Corporation] = 46A5DF0A538FB56097D20683316A3D1A:95568
+mshidkmdf	%SystemRoot%\System32\drivers\mshidkmdf.sys	[Microsoft Corporation] = 2404B97F643B19250D842985973FEAE8:49152
+mshidumdf	%SystemRoot%\System32\drivers\mshidumdf.sys	[Microsoft Corporation] = 136BB09F2550736F8239A03E2D4B3D5D:49152
+msisadrv	%SystemRoot%\System32\drivers\msisadrv.sys	[Microsoft Corporation] = 88A42EEEE9F46700A8EA241486B74CDB:54608
+msiscsi	%systemroot%\system32\iscsiexe.dll	[Microsoft Corporation] = 9D8EE7DA9CC010C6F4B080640E1404CB:176128
+msiserver	%systemroot%\system32\msiexec.exe /V	[Microsoft Corporation] = 302BE4B7434E679769029C8570825CC0:176128
+mskssrv	%SystemRoot%\System32\drivers\MSKSSRV.sys	[Microsoft Corporation] = A9794A6B5AB5CD79FACBCD26F10D29F3:73728
+mslldp	%SystemRoot%\system32\drivers\mslldp.sys	[Microsoft Corporation] = 9865D354B5DEB8F9B898FFDB74DB5F2D:102400
+mspclock	%SystemRoot%\System32\drivers\MSPCLOCK.sys	[Microsoft Corporation] = E3472686396862922E8BFA8214D42EA4:49152
+mspqm	%SystemRoot%\System32\drivers\MSPQM.sys	[Microsoft Corporation] = 7E3DA85E4BDB9E89793BF437CEE3E6D0:49152
+msquic	%SystemRoot%\system32\drivers\msquic.sys	[Microsoft Corporation] = C0693F34C97B285E7159CD8D4CB18691:419152
+mssmbios	%SystemRoot%\System32\drivers\mssmbios.sys	[Microsoft Corporation] = E3EFC19A6E2C47483FBAE74F151C889E:79216
+mstee	%SystemRoot%\System32\drivers\MSTEE.sys	[Microsoft Corporation] = 7B40C2D5E5201A44A87D7E4E819FDA0D:53248
+mtconfig	%SystemRoot%\System32\drivers\MTConfig.sys	[Microsoft Corporation] = 02A64EC48ECBC3034B76C092268FE574:53248
+mup	%SystemRoot%\System32\Drivers\mup.sys	[Microsoft Corporation] = 1BE0E9ED543E43131668F98141931B9D:169288
+mvumis	%SystemRoot%\System32\drivers\mvumis.sys	[Marvell Semiconductor, Inc.] = BBC7FE5472512B5B15283D9CDF6A0E1E:64872
+nativewifip	%SystemRoot%\system32\DRIVERS\nwifi.sys	[Microsoft Corporation] = 39648D85A22C187DAF39325FD699A156:753664
+naturalauthentication	%SystemRoot%\System32\NaturalAuth.dll	[Microsoft Corporation] = 3DE35B2C8BB10E5E1E840417B5A693B9:434176
+ncasvc	%SystemRoot%\System32\ncasvc.dll	[Microsoft Corporation] = 1FEC203592F83525286F8BE28C390EBA:188416
+ncbservice	%SystemRoot%\System32\ncbservice.dll	[Microsoft Corporation] = 638AF3530E6EEC1279644AD914F21477:344064
+ncdautosetup	%SystemRoot%\System32\NcdAutoSetup.dll	[Microsoft Corporation] = 358BB57289DA7C8AB37C2A475AB4B955:118784
+ndfltr	%SystemRoot%\System32\drivers\ndfltr.sys	[Mellanox] = F1E5BC9792C5486C7AF8BCBC73FDD0B0:147304
+ndis	%SystemRoot%\system32\drivers\ndis.sys	[Microsoft Corporation] = D314EECB554ED80A83C3E4228892EA4E:1635680
+ndiscap	%SystemRoot%\System32\drivers\ndiscap.sys	[Microsoft Corporation] = FF6CD72991329FCE328E8CC0AAFE848E:86016
+ndisimplatform	%SystemRoot%\System32\drivers\NdisImPlatform.sys	[Microsoft Corporation] = 591D51CB9674844040EDBB2A97D43AF3:163840
+ndistapi	%SystemRoot%\System32\DRIVERS\ndistapi.sys	[Microsoft Corporation] = C2763AACF468B3AC979DFE9460766269:65536
+ndisuio	%SystemRoot%\system32\drivers\ndisuio.sys	[Microsoft Corporation] = 12A8E300446B6F3B6140380EB5B1614E:102400
+ndisvirtualbus	%SystemRoot%\System32\drivers\NdisVirtualBus.sys	[Microsoft Corporation] = A7D3A804A7D2705766DE06B8263495BC:57344
+ndiswan	%SystemRoot%\System32\drivers\ndiswan.sys	[Microsoft Corporation] = 5EDA757DCA8444292E90D34C8ED16E6D:237568
+ndiswanlegacy	%SystemRoot%\System32\DRIVERS\ndiswan.sys	[Microsoft Corporation] = 5EDA757DCA8444292E90D34C8ED16E6D:237568
+ndkperf	%SystemRoot%\system32\drivers\NDKPerf.sys	[] = 646F731043D236ADF8AB2AF814D3ABFF:83288
+ndkping	%SystemRoot%\system32\drivers\NDKPing.sys	[Microsoft Corporation] = 60AE7C7CB8A9D5CC0BD361D2A253D104:107872
+ndproxy	%SystemRoot%\System32\DRIVERS\NDProxy.sys	[Microsoft Corporation] = 3674A54BFCAC3D45A728FCEECD688F33:122880
+ndu	%SystemRoot%\system32\drivers\Ndu.sys	[Microsoft Corporation] = 8BA2F8CDDEDD4BA07B7E89A3228A0EE8:188416
+netadaptercx	%SystemRoot%\system32\drivers\NetAdapterCx.sys	[Microsoft Corporation] = 5C3979134B365C9AD1064F67B9D10C5D:394576
+netbios	%SystemRoot%\system32\drivers\netbios.sys	[Microsoft Corporation] = E3B2EBF740C8B668FF2128509B97A4ED:95584
+netbt	%SystemRoot%\System32\DRIVERS\netbt.sys	[Microsoft Corporation] = E04590A290CD698C8E56426E00427A7F:327680
+netlogon	%systemroot%\system32\lsass.exe	[Microsoft Corporation] = 6394BC90AB7F53AEFB4884DB38BAEAD8:84056
+netman	%SystemRoot%\System32\netman.dll	[Microsoft Corporation] = 2C6D42B528564B32696334E1D3DD87BF:282624
+netprofm	%SystemRoot%\System32\netprofmsvc.dll	[Microsoft Corporation] = 3B01BAFEA98468F60F1A6514ADABA50C:1748992
+netsetupsvc	%SystemRoot%\System32\NetSetupSvc.dll	[Microsoft Corporation] = 5B4C7EA4C786A3FA1B050B11F11FFB81:315392
+nettcpportsharing	%systemroot%\Microsoft.NET\Framework64\v3.0\Windows Communication Foundation\SMSvcHost.exe	[Microsoft Corporation] = DF6CAC6E1711131D7E5BFAA616FD3D5C:119696
+netvsc	%SystemRoot%\System32\drivers\netvsc.sys	[Microsoft Corporation] = 6886D298947CBE7049D53D7F46C5068D:329040
+ngcctnrsvc	%SystemRoot%\System32\NgcCtnrSvc.dll	[Microsoft Corporation] = C49E7FFB8EE796D10D5A4E078042E612:753664
+ngcsvc	%SystemRoot%\system32\ngcsvc.dll	[Microsoft Corporation] = CF3F2E9639D10811BD485DA184298A06:1134592
+nlasvc	%SystemRoot%\System32\netprofmsvc.dll	[Microsoft Corporation] = 3B01BAFEA98468F60F1A6514ADABA50C:1748992
+npsmsvc	%SystemRoot%\System32\npsm.dll	[Microsoft Corporation] = 683D76799085864B3D38839B74F4E3C2:221184
+npsvctrig	%SystemRoot%\System32\drivers\npsvctrig.sys	[Microsoft Corporation] = 140714F5F16A0CE46D6D9B3045708B4C:65536
+nsi	%systemroot%\system32\nsisvc.dll	[Microsoft Corporation] = 5174BB236D52B50D35E50A26B58869EC:57344
+nsiproxy	%SystemRoot%\system32\drivers\nsiproxy.sys	[Microsoft Corporation] = 18EE490CFDBFB41E95399D230A7A45A9:77824
+nvdimm	%SystemRoot%\System32\drivers\nvdimm.sys	[Microsoft Corporation] = B379EB9195D07A465D289978D48F4F9D:206160
+nvdisplay.containerlocalsystem	%system%\DriverStore\FileRepository\nv_dispig.inf_amd64_677da8a9230cea15\Display.NvContainer\NVDisplay.Container.exe -s NVDisplay.ContainerLocalSystem -f %ProgramData%\NVIDIA\NVDisplay.ContainerLocalSystem.log -l 3 -d %system%\DriverStore\FileRepository\nv_dispig.inf_amd64_677da8a9230cea15\Display.NvContainer\plugins\LocalSystem -r -p 30000 -cfg NVDisplay.ContainerLocalSystem\LocalSystem /ert	[NVIDIA Corporation] = 2498D98B12D15DEE26C8576A32E94CB3:1275544
+nvlddmkm	%SystemRoot%\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_677da8a9230cea15\nvlddmkm.sys	[NVIDIA Corporation] = 0E920EBA164D4AE7D97635E32EEE7AB6:58720920
+nvmedisk	%SystemRoot%\System32\drivers\nvmedisk.sys	[Microsoft Corporation] = 22DE8359A698EF74327A01344FF6E89D:91496
+nvraid	%SystemRoot%\System32\drivers\nvraid.sys	[NVIDIA Corporation] = 3311050C4207CA92A43AEE1455DC6807:151392
+nvstor	%SystemRoot%\System32\drivers\nvstor.sys	[NVIDIA Corporation] = 901A11654F29E69734FDA6C582823E76:167256
+onesyncsvc	%SystemRoot%\System32\APHostService.dll	[Microsoft Corporation] = 1E0375470D0CD22B782B540C8773970D:389120
+openvpnserviceinteractive	"%programfiles%\OpenVPN\bin\openvpnserv.exe"	[The OpenVPN Project] = C314EA6B2C7FE868F012460241F332DA:73824
+p2pimsvc	%SystemRoot%\system32\pnrpsvc.dll	[Microsoft Corporation] = E282BB4F97B7CE5D1B69EC2BD1865EBC:376832
+p2psvc	%SystemRoot%\system32\p2psvc.dll	[Microsoft Corporation] = 6127122856EFD18954BFF66B95FE0A1A:454656
+p9rdr	%SystemRoot%\System32\drivers\p9rdr.sys	[Microsoft Corporation] = 8A6D964E9FEF362F889657D3F5E56E54:148816
+p9rdrservice	%SystemRoot%\system32\p9rdrservice.dll	[Microsoft Corporation] = 87C344481D3BC8AAFA18932785DACCE2:122880
+paexec	%windir%\PAExec.exe -service	[Power Admin LLC] = 22E9853298C96B1AB89D8F71C4E82302:189112
+parport	%SystemRoot%\System32\drivers\parport.sys	[Microsoft Corporation] = 3A4E501001979A77B7F2C353944699A9:135168
+partmgr	%SystemRoot%\System32\drivers\partmgr.sys	[Microsoft Corporation] = 8C6E1E92E73E29C2CFB29791B94D1154:218432
+pcasvc	%SystemRoot%\System32\pcasvc.dll	[Microsoft Corporation] = BB947147B10075CC779EBA3589854D27:1013104
+pci	%SystemRoot%\System32\drivers\pci.sys	[Microsoft Corporation] = 09261A25C70A32CDFC8DC5EBBA9344AA:570720
+pciide	%SystemRoot%\System32\drivers\pciide.sys	[Microsoft Corporation] = B8D0C27B6C67120314F8CD94B29F5F72:54608
+pcmcia	%SystemRoot%\System32\drivers\pcmcia.sys	[Microsoft Corporation] = 6066E3D8E4102F62CE85B631BBC72FDD:157016
+pcw	%SystemRoot%\System32\drivers\pcw.sys	[Microsoft Corporation] = 8C01B0D7417520F778ABC7A32AF92C48:99672
+pdc	%SystemRoot%\system32\drivers\pdc.sys	[Microsoft Corporation] = 31331D8A93FD577900C8D7189CB6512F:202080
+peauth	%SystemRoot%\system32\drivers\peauth.sys	[Microsoft Corporation] = CE2035896D130B693D730FE786109A08:856064
+penservice	%SystemRoot%\System32\PenService.dll	[Microsoft Corporation] = 9601F430046ACF4F6DEEB48222A4AD30:294912
+perceptionsimulation	%systemroot%\system32\PerceptionSimulation\PerceptionSimulationService.exe	[Microsoft Corporation] = 33A528A95D6CCF998EB48BE7136947BB:241664
+percsas2i	%SystemRoot%\System32\drivers\percsas2i.sys	[Avago Technologies] = 4741CD0E297E4ADDDADBB4C25073B737:59752
+percsas3i	%SystemRoot%\System32\drivers\percsas3i.sys	[Avago Technologies] = 7D86A59211E072121F994FCF36EA8CAC:69464
+perfhost	%SystemRoot%\SysWow64\perfhost.exe	[Microsoft Corporation] = 0CDCD756CDD9F4102D0A7BA0DB194E21:22016
+phonesvc	%SystemRoot%\System32\PhoneService.dll	[Microsoft Corporation] = 53CC111C9F9212E8DE659CEA2F2784A8:1089536
+pimindexmaintenancesvc	%SystemRoot%\System32\PimIndexMaintenance.dll	[Microsoft Corporation] = 13E9E4B62C730379782F6EB7B44016F3:221184
+pktmon	%SystemRoot%\system32\drivers\PktMon.sys	[Microsoft Corporation] = 48D8ADF3B47922D3E95AA624E8A43987:177504
+pla	%systemroot%\system32\pla.dll	[Microsoft Corporation] = 3FF724C60904AE4A2261D284E95E2430:1552384
+plugplay	%SystemRoot%\system32\umpnpmgr.dll	[Microsoft Corporation] = 7CFED937D857D12702E1F7E1FF553A19:167936
+pmem	%SystemRoot%\System32\drivers\pmem.sys	[Microsoft Corporation] = 27D03BD31E844D2075A9BAB78A4A1181:181600
+pnpmem	%SystemRoot%\System32\drivers\pnpmem.sys	[Microsoft Corporation] = 79B2ECC916F6F6BB0C6E39BA2D135C14:53248
+pnrpautoreg	%SystemRoot%\system32\pnrpauto.dll	[Microsoft Corporation] = A592C9B6A218AF5E6E25C7207151F604:49152
+pnrpsvc	%SystemRoot%\system32\pnrpsvc.dll	[Microsoft Corporation] = E282BB4F97B7CE5D1B69EC2BD1865EBC:376832
+policyagent	%SystemRoot%\System32\ipsecsvc.dll	[Microsoft Corporation] = 5ABD106F663FA49892362C8B7A6447E1:434176
+portcfg	%SystemRoot%\System32\drivers\portcfg.sys	[Microsoft Corporation] = F3B3939ED9316660C8D78955E5C2CF84:61440
+power	%SystemRoot%\system32\umpo.dll	[Microsoft Corporation] = DE5D1150CEEC424E6FB2EE8B64750400:212992
+pptpminiport	%SystemRoot%\System32\drivers\raspptp.sys	[Microsoft Corporation] = BD1FBC41375B05F09868EE638D4DAB71:139264
+printnotify	%system%\spool\drivers\x64\3\PrintConfig.dll	[Microsoft Corporation] = 411FC9A1E31292DE994D57DD9EBD6D8E:4071424
+printworkflowusersvc	%SystemRoot%\System32\PrintWorkflowService.dll	[Microsoft Corporation] = 363F130815D94C58D3A1867FA82DB9C9:438272
+prm	%SystemRoot%\System32\DriverStore\FileRepository\prm.inf_amd64_de435dc5c75d64a5\PRM.sys	[Microsoft Corporation] = 329589E345B352729E597F1A76E48AC7:66896
+processor	%SystemRoot%\System32\drivers\processr.sys	[Microsoft Corporation] = 23E9F8CFC5A9FA9B7CB481178C840AE8:259408
+profsvc	%systemroot%\system32\profsvc.dll	[Microsoft Corporation] = F2BE1300600411191F0AFD2019EC34D4:622592
+psched	%SystemRoot%\System32\drivers\pacer.sys	[Microsoft Corporation] = 0C711F607EA3B7D87402CB0324D2A897:185680
+pushtoinstall	%SystemRoot%\system32\PushToInstall.dll	[Microsoft Corporation] = 00C41D25F4A89D2928264999CA7821CE:425984
+pvscsi	%SystemRoot%\System32\drivers\pvscsii.sys	[VMware, Inc.] = A89AD94806B16B6CDFFC3089802001C2:45408
+qwave	%windir%\system32\qwave.dll	[Microsoft Corporation] = 66ACE13B2FE5DC69CB42624F5B1C4736:319488
+qwavedrv	%SystemRoot%\system32\drivers\qwavedrv.sys	[Microsoft Corporation] = 7657DDCE977A0B542C6F237D72196D5B:86016
+ramdisk	%SystemRoot%\system32\DRIVERS\ramdisk.sys	[Microsoft Corporation] = A74A5F02BD404C85319DBAD7C8806E60:75104
+rasacd	%SystemRoot%\System32\DRIVERS\rasacd.sys	[Microsoft Corporation] = AF925F724CA8A9B3F55E320BAAE4DB01:57344
+rasagilevpn	%SystemRoot%\System32\drivers\AgileVpn.sys	[Microsoft Corporation] = 9712074198006BABF509A6D63506492B:151552
+rasauto	%SystemRoot%\System32\rasauto.dll	[Microsoft Corporation] = 6B3642FBE77FC94CD19A68837FCE621F:135168
+rasl2tp	%SystemRoot%\System32\drivers\rasl2tp.sys	[Microsoft Corporation] = B0FF5FEE195A3ED357176D8D6FE1FEBB:151552
+rasman	%SystemRoot%\System32\rasmans.dll	[Microsoft Corporation] = A5FBE228D0D4ED8237CB75B0D41B31A0:1138688
+raspppoe	%SystemRoot%\System32\drivers\raspppoe.sys	[Microsoft Corporation] = ADF3CF238D9CE7C0E60106112D0EA8B2:126976
+rassstp	%SystemRoot%\System32\drivers\rassstp.sys	[Microsoft Corporation] = F80FDC9432B6720CF08A5ACB59F606BF:122880
+rdbss	%SystemRoot%\system32\DRIVERS\rdbss.sys	[Microsoft Corporation] = 8C81C4E046C759D1F5692AAA4F61723E:496992
+rdpbus	%SystemRoot%\System32\drivers\rdpbus.sys	[Microsoft Corporation] = 105CED20C2E90584938CBB3BB91EB709:65536
+rdpdr	%SystemRoot%\System32\drivers\rdpdr.sys	[Microsoft Corporation] = 9327D2D9AEA1C64BC6993E48849232E9:196608
+rdpvideominiport	%SystemRoot%\System32\drivers\rdpvideominiport.sys	[Microsoft Corporation] = 415FDAD7B0E99D9797FE12E6725F3C26:66888
+rdyboost	%SystemRoot%\System32\drivers\rdyboost.sys	[Microsoft Corporation] = F43095B3D3345AA391045572CC9DFB9D:329056
+remoteaccess	%SystemRoot%\System32\mprdim.dll	[Microsoft Corporation] = 83FAE724804E9BBAA28FF0B85FA771EC:512000
+remoteregistry	%SystemRoot%\system32\regsvc.dll	[Microsoft Corporation] = 97FF5DB809DE2FF0095B71576C3FE686:192512
+retaildemo	%SystemRoot%\system32\RDXService.dll	[Microsoft Corporation] = 451C54E92D34F470D41B0DC9F171DEB0:798720
+rfcomm	%SystemRoot%\System32\drivers\rfcomm.sys	[Microsoft Corporation] = 8CDBBEC0172BCADF71FD5FD3A0F2E82F:253952
+rhproxy	%SystemRoot%\System32\drivers\rhproxy.sys	[Microsoft Corporation] = D3A713138E1E06A4786DD1BFE2E3CEF3:147456
+rmsvc	%SystemRoot%\System32\RMapi.dll	[Microsoft Corporation] = 3192171E0A4F4AC70C074D674864598D:225280
+routepolicy	%SystemRoot%\System32\drivers\RoutePolicy.sys	[] = 8C3691ACD9C22471D890173963D7F677:98304
+rpceptmapper	%SystemRoot%\System32\RpcEpMap.dll	[Microsoft Corporation] = E990E69F0920673A3C864BE8ACE5CC2B:143360
+rpclocator	%SystemRoot%\system32\locator.exe	[Microsoft Corporation] = 291F77CCFBDC300F79378E131CB0E8ED:28672
+rpcss	%SystemRoot%\system32\rpcss.dll	[Microsoft Corporation] = 2E6EF206A2D62763AFE01B4B94C54DB0:1437696
+rspndr	%SystemRoot%\system32\drivers\rspndr.sys	[Microsoft Corporation] = 4FE55EFCE87A5776432298F2864E338F:118784
+rt640x64	%SystemRoot%\System32\drivers\rt640x64.sys	[Realtek                                        ] = 14F3B99055495D23929C1EA331E04A65:1210224
+rtots640x64	%SystemRoot%\System32\drivers\rtots640x64.sys	[Realtek                                        ] = DCA04DA83BDB7D3FDB9BD30D530BDAFB:1185688
+s3cap	%SystemRoot%\System32\drivers\vms3cap.sys	[Microsoft Corporation] = BE990769481BBD63507D4409120CB145:54616
+samss	%SystemRoot%\system32\lsass.exe	[Microsoft Corporation] = 6394BC90AB7F53AEFB4884DB38BAEAD8:84056
+sbp2port	%SystemRoot%\System32\drivers\sbp2port.sys	[Microsoft Corporation] = B2FFD253DEE13A50077B80A334421B39:148816
+scardsvr	%SystemRoot%\System32\SCardSvr.dll	[Microsoft Corporation] = AB063FE632CED068927CAB3755F85698:299008
+scdeviceenum	%SystemRoot%\System32\ScDeviceEnum.dll	[Microsoft Corporation] = 7710D3F027E7BA936AB39A2FE877ACE0:204800
+scfilter	%SystemRoot%\System32\DRIVERS\scfilter.sys	[Microsoft Corporation] = BD42D2A570C94D94C9E479666E4B6243:77824
+schedule	%systemroot%\system32\schedsvc.dll	[Microsoft Corporation] = 73E17924AF45D6581AFC131D7CEFB79B:811008
+scmbus	%SystemRoot%\System32\drivers\scmbus.sys	[Microsoft Corporation] = 571215E5CFAF8982C7BC822647CD7A63:222536
+scpolicysvc	%SystemRoot%\System32\certprop.dll	[Microsoft Corporation] = 7CFFFE559D0C0D22EF767BEA89789E62:221184
+sdbus	%SystemRoot%\System32\drivers\sdbus.sys	[Microsoft Corporation] = 8623D88322C16407EFF29D90A816E0C7:341336
+sdfrd	%SystemRoot%\System32\drivers\SDFRd.sys	[Microsoft Corporation] = C34892B72E54D9BC257D7294CB31D13F:71016
+sdrsvc	%Systemroot%\System32\SDRSVC.dll	[Microsoft Corporation] = F88D199314FED9F05061DB336B41913D:176128
+sdstor	%SystemRoot%\System32\drivers\sdstor.sys	[Microsoft Corporation] = 556004E607801135E3F1679A623E57C2:132456
+seclogon	%windir%\system32\seclogon.dll	[Microsoft Corporation] = 2FB71772B1DE764F9EAA63193DD67E05:53248
+securityhealthservice	%SystemRoot%\system32\SecurityHealthService.exe	[Microsoft Corporation] = 1BB57DFC5AAB7E7487F2E8B7C7250EA4:146080
+semgrsvc	%SystemRoot%\system32\SEMgrSvc.dll	[Microsoft Corporation] = C053FBADAA85BCCECA5903BE0C9B247D:1306624
+sens	%SystemRoot%\System32\sens.dll	[Microsoft Corporation] = 1D37B06E5B59A48ED9DC3C0C948AFE76:98304
+sensordataservice	%SystemRoot%\System32\SensorDataService.exe	[Microsoft Corporation] = 44D45D0856950DFACA4B19647E9B2428:1191936
+sensorservice	%SystemRoot%\system32\SensorService.dll	[Microsoft Corporation] = 5299D0AE2A6AAA536BF7D0A07068E48E:684032
+sensrsvc	%SystemRoot%\system32\sensrsvc.dll	[Microsoft Corporation] = CB8B6288D8344695B99C1A2FA40720EE:200704
+sercx	%SystemRoot%\system32\drivers\SerCx.sys	[Microsoft Corporation] = D9F58C9DC02AA8381AEB21BF426026CF:120144
+sercx2	%SystemRoot%\system32\drivers\SerCx2.sys	[Microsoft Corporation] = C770A3BE8990F8940B55FD420361B496:202080
+serenum	%SystemRoot%\System32\drivers\serenum.sys	[Microsoft Corporation] = 6AE8BBE17CE916F68FEEC2F83CDE923D:65536
+serial	%SystemRoot%\System32\drivers\serial.sys	[Microsoft Corporation] = 56463BDCCD55F0166D7C939CF528A0A2:122880
+sermouse	%SystemRoot%\System32\drivers\sermouse.sys	[Microsoft Corporation] = 151F815658B9ABA13EDB5A8DC6D547DF:65536
+sessionenv	%SystemRoot%\system32\sessenv.dll	[Microsoft Corporation] = E1D5E24151968EEA44AF465341B78941:598016
+sfloppy	%SystemRoot%\System32\drivers\sfloppy.sys	[Microsoft Corporation] = C4DDF6845573D002EDDE44E9FB3A410C:57344
+sgrmagent	%SystemRoot%\system32\drivers\SgrmAgent.sys	[Microsoft Corporation] = 92F55C85905E31208C76CB18044C4061:124264
+sgrmbroker	%SystemRoot%\system32\Sgrm\SgrmBroker.exe	[Microsoft Corporation] = B844D662C090F882733551EACECDB7EE:414632
+sharedaccess	%SystemRoot%\System32\ipnathlp.dll	[Microsoft Corporation] = 1B19E167C8CAA2F2CB53A27E1D24399C:683168
+sharedrealitysvc	%SystemRoot%\System32\SharedRealitySvc.dll	[Microsoft Corporation] = 01F2E66D43B569F759B8DC1A91879B43:339968
+shellhwdetection	%SystemRoot%\System32\shsvcs.dll	[Microsoft Corporation] = 9524F18E6530965370DB4212637C13D8:270336
+shpamsvc	%systemroot%\system32\Windows.SharedPC.AccountManager.dll	[Microsoft Corporation] = BC5EB8CA2F5C292D5133257A6A85B417:241664
+sisraid2	%SystemRoot%\System32\drivers\SiSRaid2.sys	[Silicon Integrated Systems Corp.] = 4AB747C66EDC96A55FD130AAED59F791:45920
+sisraid4	%SystemRoot%\System32\drivers\sisraid4.sys	[Silicon Integrated Systems] = 6AB092D096F3A23E483D98A11712F836:82784
+smartsamd	%SystemRoot%\System32\drivers\SmartSAMD.sys	[Microsemi Corportation] = 257F6611B5A27AB0AEB0B2FE30ECA02B:210784
+smphost	%Systemroot%\System32\smphost.dll	[Microsoft Corporation] = 296ECDB623430DA080E4F702A76E2F0D:66896
+smsrouter	%SystemRoot%\system32\SmsRouterSvc.dll	[Microsoft Corporation] = 0ED96EDF7F88233335DB3C628E52B7DF:643072
+snmptrap	%SystemRoot%\System32\snmptrap.exe	[Microsoft Corporation] = EDE2EF9BC63C05BF44D732B04C9AC57A:36864
+spaceparser	%SystemRoot%\system32\drivers\spaceparser.sys	[Microsoft Corporation] = 79316F399EF9946F248AEDE5304257A1:81920
+spaceport	%SystemRoot%\System32\drivers\spaceport.sys	[Microsoft Corporation] = 01A690A42721C1F303A0BDB696432E5A:931152
+spatialgraphfilter	%SystemRoot%\System32\drivers\SpatialGraphFilter.sys	[Microsoft Corporation] = 5ECD5867D845BFAB8482697D520BFA59:132448
+spbcx	%SystemRoot%\system32\drivers\SpbCx.sys	[Microsoft Corporation] = 52989DF3E49244C58532D62A969EF733:124256
+spectrum	%systemroot%\system32\spectrum.exe	[Microsoft Corporation] = 0493248F49DE5733D90C695087779A78:770048
+spooler	%SystemRoot%\System32\spoolsv.exe	[Microsoft Corporation] = D9E22F920959882DDCD56AA59BB7CD1E:925696
+sppsvc	%SystemRoot%\system32\sppsvc.exe	[Microsoft Corporation] = F80023031839B52F19FFA722A8BDB5A5:4769720
+srv2	%SystemRoot%\System32\DRIVERS\srv2.sys	[Microsoft Corporation] = D0699E0A890723AB21264C3566E8D360:864256
+srvnet	%SystemRoot%\System32\DRIVERS\srvnet.sys	[Microsoft Corporation] = 808A55C4C1C756B1E03050A24429EF16:368640
+ssdpsrv	%SystemRoot%\System32\ssdpsrv.dll	[Microsoft Corporation] = 4EDC960F3D1045DD4D3DEB68F2086196:299008
+ssh-agent	%SystemRoot%\System32\OpenSSH\ssh-agent.exe	[] = D62D585268671AB0E94FE4EC5DCB5D6E:393216
+sstpsvc	%SystemRoot%\system32\sstpsvc.dll	[Microsoft Corporation] = CA5160EA11DECF6F37ECC16E1C96025D:180224
+staterepository	%SystemRoot%\system32\windows.staterepository.dll	[Microsoft Corporation] = 379FD2F91EC54146234D8E26932F3654:6889432
+stexstor	%SystemRoot%\System32\drivers\stexstor.sys	[Promise Technology, Inc.] = E6E7BA9199B743211C261AB1107D8491:32080
+stisvc	%SystemRoot%\System32\wiaservc.dll	[Microsoft Corporation] = 2203594EFB349377EF40A59FAB106A75:802816
+storahci	%SystemRoot%\System32\drivers\storahci.sys	[Microsoft Corporation] = 93D36B02C4D1F3CC40B87C84FE49A559:214352
+storflt	%SystemRoot%\System32\drivers\vmstorfl.sys	[Microsoft Corporation] = 4CF2F82604B278C3FB5C528FD19F9756:87376
+stornvme	%SystemRoot%\System32\drivers\stornvme.sys	[Microsoft Corporation] = F4C1531C42BB00D35327A98ABD882DAD:251216
+storqosflt	%SystemRoot%\system32\drivers\storqosflt.sys	[Microsoft Corporation] = 3D0D03A85C764EB7E0C2402EBA42DBB8:120192
+storsvc	%SystemRoot%\system32\storsvc.dll	[Microsoft Corporation] = 7330C8F7A825BA063B4B8E827DA6C8D9:880640
+storufs	%SystemRoot%\System32\drivers\storufs.sys	[Microsoft Corporation] = 5C2246E08BCAEF159A95BA5B03F2D283:112000
+storvsc	%SystemRoot%\System32\drivers\storvsc.sys	[Microsoft Corporation] = 61252170F58C4BDF095803C36896DD4B:87392
+svsvc	%SystemRoot%\system32\svsvc.dll	[Microsoft Corporation] = BB4BC2400D3F6DC0E0F4E5DF7EEA7E02:36864
+swenum	%SystemRoot%\System32\DriverStore\FileRepository\swenum.inf_amd64_d84a235075a8ff73\swenum.sys	[Microsoft Corporation] = 5AF668DAABC5692FE692C3C9641988AE:58728
+swprv	%Systemroot%\System32\swprv.dll	[Microsoft Corporation] = 6951C42A085AF09BED631D7861A6B68B:475136
+sysmain	%systemroot%\system32\sysmain.dll	[Microsoft Corporation] = F3683A5303F4279271FF41A7710526C1:1019904
+systemeventsbroker	%SystemRoot%\System32\SystemEventsBrokerServer.dll	[Microsoft Corporation] = 021F9641A518DFDCA367BF19518C4CCB:286720
+tap0901	%SystemRoot%\System32\drivers\tap0901.sys	[The OpenVPN Project] = CB187E3A0549FC42A3F96DABD1A0E665:39920
+tapisrv	%SystemRoot%\System32\tapisrv.dll	[Microsoft Corporation] = 176AA912D9D40707D495603E8628D36F:335872
+tcpip	%SystemRoot%\System32\drivers\tcpip.sys	[Microsoft Corporation] = 14F2B0558D850D24ACB17EE7E158364C:3310928
+tcpip6	%SystemRoot%\System32\drivers\tcpip.sys	[Microsoft Corporation] = 14F2B0558D850D24ACB17EE7E158364C:3310928
+tcpipreg	%SystemRoot%\System32\drivers\tcpipreg.sys	[Microsoft Corporation] = 8B877E48CBC9F97FE4BC5CC05AE53A3A:86016
+tdx	%SystemRoot%\system32\DRIVERS\tdx.sys	[Microsoft Corporation] = 0764FE1EDF3CFE3133B0BD42A51447EC:157000
+terminpt	%SystemRoot%\System32\drivers\terminpt.sys	[Microsoft Corporation] = 43AB69BF0F1899876AC44EBDC8045BFB:75104
+termservice	%SystemRoot%\System32\termsrv.dll	[Microsoft Corporation] = 797420C64582F85B2771E49784534101:1294336
+textinputmanagementservice	%SystemRoot%\System32\TabSvc.dll	[Microsoft Corporation] = 849BC48CE4936E7E67193C02AFB11FED:266240
+themes	%SystemRoot%\system32\themeservice.dll	[Microsoft Corporation] = 6E61628A8D668A09EF9EF1FCFDDB2228:114688
+tieringengineservice	%SystemRoot%\system32\TieringEngineService.exe	[Microsoft Corporation] = F46F1216612E250C527C8F37BA24C1A1:344064
+timebrokersvc	%SystemRoot%\System32\TimeBrokerServer.dll	[Microsoft Corporation] = 0094C4735180A36E16E9B82B21F2A4A7:184320
+tokenbroker	%SystemRoot%\System32\TokenBroker.dll	[Microsoft Corporation] = 7CD149744C77B79F45EEC0AB8B789264:1810432
+tpm	%SystemRoot%\System32\drivers\tpm.sys	[Microsoft Corporation] = 24C5B468EB880CC23C3E51AE84B59B55:365920
+transmission	"%programfiles%\Transmission\transmission-daemon.exe"	[Transmission Project] = 33E3B9AE057815D6095EF4292B89D694:632544
+trkwks	%SystemRoot%\System32\trkwks.dll	[Microsoft Corporation] = 0E34E2BDD636B9FFE9045A30540CBEBD:139264
+troubleshootingsvc	%systemroot%\system32\MitigationClient.dll	[Microsoft Corporation] = A070BDD76DE4BF0F53C943A4C81FF546:507904
+trustedinstaller	%SystemRoot%\servicing\TrustedInstaller.exe	[Microsoft Corporation] = D955D35F5922778BE6322795B2BC543A:218456
+tsusbflt	%SystemRoot%\system32\drivers\tsusbflt.sys	[Microsoft Corporation] = B4995236FBCE31C285435B6068078A06:98304
+tsusbgd	%SystemRoot%\System32\drivers\TsUsbGD.sys	[Microsoft Corporation] = 77ED38E9076488748B9C97CBE6AA44F6:69632
+tunnel	%SystemRoot%\System32\drivers\tunnel.sys	[Microsoft Corporation] = E890DFE5B852E9489A2C22FDD3F57EDF:167936
+tzautoupdate	%SystemRoot%\system32\tzautoupdate.dll	[Microsoft Corporation] = DEF86FCBA0D265330B624E1F892877C2:188416
+uaspstor	%SystemRoot%\System32\drivers\uaspstor.sys	[Microsoft Corporation] = ECB7C825FDD3948E73FC00FEAE8BE9FD:116064
+ucmcx0101	%SystemRoot%\System32\Drivers\UcmCx.sys	[Microsoft Corporation] = A259EDBE9A8FDC91E8475323A77A886E:204800
+ucmtcpcicx0101	%SystemRoot%\System32\Drivers\UcmTcpciCx.sys	[Microsoft Corporation] = 9534F148427751574C910AD72452F075:217088
+ucmucsiacpiclient	%SystemRoot%\System32\drivers\UcmUcsiAcpiClient.sys	[Microsoft Corporation] = 31F5811949279B7A4E3191517D7B87E3:69632
+ucmucsicx0101	%SystemRoot%\System32\Drivers\UcmUcsiCx.sys	[Microsoft Corporation] = 02D3D908163AD5D36145756AAA61A9D6:155648
+ucx01000	%SystemRoot%\system32\drivers\ucx01000.sys	[Microsoft Corporation] = 67B0D7DFB0806B195CA65E05D361DFBF:292184
+udecx	%SystemRoot%\system32\drivers\udecx.sys	[Microsoft Corporation] = 9B9DE1378E7CEA3B1E02CD2848EA8890:90112
+udfs	%SystemRoot%\system32\DRIVERS\udfs.sys	[Microsoft Corporation] = F35D90D6D2EBBDEFF7753799C54CBEAC:389120
+udkusersvc	%SystemRoot%\System32\windowsudkservices.shellcommon.dll	[Microsoft Corporation] = D707DD82CF5C1F304BADBA04607B8BCC:118784
+uefi	%SystemRoot%\System32\DriverStore\FileRepository\uefi.inf_amd64_3abb917fc03c6fa8\UEFI.sys	[Microsoft Corporation] = 034C21E4F1EF1BDE10347C04E37B4507:79184
+ufx01000	%SystemRoot%\system32\drivers\ufx01000.sys	[Microsoft Corporation] = B444779B6964FF6F69CB2CBD72F7A3B8:361816
+ufxchipidea	%SystemRoot%\System32\DriverStore\FileRepository\ufxchipidea.inf_amd64_953893a44d2a914b\UfxChipidea.sys	[Microsoft Corporation] = 6624987F7331C1CA8A7D221DA8DFDF82:140624
+ufxsynopsys	%SystemRoot%\System32\drivers\ufxsynopsys.sys	[Microsoft Corporation] = 1ACE05FBF6A01E53BF079AFD19511ACC:197968
+umbus	%SystemRoot%\System32\DriverStore\FileRepository\umbus.inf_amd64_8ee833e5ca48d1de\umbus.sys	[Microsoft Corporation] = B2501FC50E8F675DC2F6CA814912BE1D:94208
+umpass	%SystemRoot%\System32\drivers\umpass.sys	[Microsoft Corporation] = 81ABE52696C2029C967B85B540B2AB7C:53248
+umrdpservice	%SystemRoot%\System32\umrdp.dll	[Microsoft Corporation] = E890BC87841B7181FA11318FE230AA4E:446464
+unistoresvc	%SystemRoot%\System32\unistore.dll	[Microsoft Corporation] = E63524D4CF5A28A37106D63E73DA5DB4:1146880
+upnphost	%SystemRoot%\System32\upnphost.dll	[Microsoft Corporation] = 541455CF21816B1F9834B31CEC21F976:499712
+urschipidea	%SystemRoot%\System32\DriverStore\FileRepository\urschipidea.inf_amd64_94409a35cafabb3a\urschipidea.sys	[Microsoft Corporation] = 30AE4490AB4342D8768E8686EA2F6958:70992
+urscx01000	%SystemRoot%\system32\drivers\urscx01000.sys	[Microsoft Corporation] = 7D32F64F6C66C72157D0DFABD1937184:111952
+urssynopsys	%SystemRoot%\System32\DriverStore\FileRepository\urssynopsys.inf_amd64_3877e87496c75f8d\urssynopsys.sys	[Microsoft Corporation] = 886981879CC4819C0648D3EDB96B038B:66912
+usb4devicerouter	%SystemRoot%\System32\DriverStore\FileRepository\usb4devicerouter.inf_amd64_8fd04498ac5eb6bc\Usb4DeviceRouter.sys	[Microsoft Corporation] = E9B92FFD0D725CF2C7481FE9703012F0:893016
+usb4hostrouter	%SystemRoot%\System32\DriverStore\FileRepository\usb4hostrouter.inf_amd64_b1237ac2d7fc2b75\Usb4HostRouter.sys	[Microsoft Corporation] = 8711D5EE9E0D7D5FE159C5221931CA61:624000
+usbaudio	%SystemRoot%\system32\drivers\usbaudio.sys	[Microsoft Corporation] = DE5FFF9D45867F7D42633F8DA32D6720:282624
+usbaudio2	%SystemRoot%\System32\drivers\usbaudio2.sys	[Microsoft Corporation] = 4F062CF277235FEA3DF8733F344B7EF2:397312
+usbccgp	%SystemRoot%\System32\drivers\usbccgp.sys	[Microsoft Corporation] = EB9DFCE19A4825E673FAC6BC4892B4F6:226640
+usbcir	%SystemRoot%\System32\drivers\usbcir.sys	[Microsoft Corporation] = 0924D9A4429E91E92EEBD4AB935EF5F4:143360
+usbehci	%SystemRoot%\System32\drivers\usbehci.sys	[Microsoft Corporation] = AFEB9FDE51FEFE7D29F2173A4A30774A:120160
+usbhub	%SystemRoot%\System32\drivers\usbhub.sys	[Microsoft Corporation] = 2089B195ACE3A49023B55D0C626A8022:558416
+usbhub3	%SystemRoot%\System32\drivers\UsbHub3.sys	[Microsoft Corporation] = FD580695122F330D3CDCE7679ED961AF:722256
+usbohci	%SystemRoot%\System32\drivers\usbohci.sys	[Microsoft Corporation] = 096E5A3974434A256A6A10B08913E38A:65536
+usbprint	%SystemRoot%\System32\drivers\usbprint.sys	[Microsoft Corporation] = A2F43DF834B7DDC18D06640CF1801A5F:110592
+usbrndis6	%SystemRoot%\System32\drivers\usb80236.sys	[Microsoft Corporation] = 73274BFC2DF1DD0D314530C27CDFF7AF:57344
+usbser	%SystemRoot%\System32\drivers\usbser.sys	[Microsoft Corporation] = 80456636F0265AC8EA9B27DB08D798B5:131072
+usbstor	%SystemRoot%\System32\drivers\USBSTOR.SYS	[Microsoft Corporation] = 35CCCA1A6BC1ABC47BF7A3DF43D6C6B2:173392
+usbuhci	%SystemRoot%\System32\drivers\usbuhci.sys	[Microsoft Corporation] = 60FBAC98A162E1C02AE676775DED141A:73728
+usbxhci	%SystemRoot%\System32\drivers\USBXHCI.SYS	[Microsoft Corporation] = A6E7D6FF3FB76E6A8ED41F26DE0DE626:677184
+userdatasvc	%SystemRoot%\System32\userdataservice.dll	[Microsoft Corporation] = 64B12066CAC1378ECB94FE57ABE4D4D1:1581056
+usermanager	%SystemRoot%\System32\usermgr.dll	[Microsoft Corporation] = 3DE443FE6EF5523566E5E0E32093B2D2:1601536
+usosvc	%systemroot%\system32\usosvc.dll	[Microsoft Corporation] = E3423EE5994AB5BBED091AF39D636A99:102400
+vacsvc	%SystemRoot%\System32\vac.dll	[Microsoft Corporation] = CDC92973661CC8BA1A72A0EF7203C4DD:431144
+vaultsvc	%SystemRoot%\system32\lsass.exe	[Microsoft Corporation] = 6394BC90AB7F53AEFB4884DB38BAEAD8:84056
+vboxsup	%SystemRoot%\system32\DRIVERS\VBoxSup.sys	[Oracle and/or its affiliates] = 3A2614EAAE4407B07D83D77B0FE95004:1061440
+vboxusbmon	%SystemRoot%\system32\DRIVERS\VBoxUSBMon.sys	[Oracle and/or its affiliates] = 7F0A032CAB0D956DFC98A6C748A044C8:204224
+vdrvroot	%SystemRoot%\System32\drivers\vdrvroot.sys	[Microsoft Corporation] = 56D9CF8015F86F4BF9834159BB72B43D:124248
+vds	%SystemRoot%\System32\vds.exe	[Microsoft Corporation] = ABFAEC40F50C5C951FD5068BADE823F2:692224
+verifierext	%SystemRoot%\System32\drivers\VerifierExt.sys	[Microsoft Corporation] = AFCCA4F32ECC8E9C1A3CA1AC1DC6BE09:247136
+vhdmp	%SystemRoot%\System32\drivers\vhdmp.sys	[Microsoft Corporation] = 7CCAB2C367A63D2074804AAB80A257F9:1015904
+vhf	%SystemRoot%\System32\drivers\vhf.sys	[Microsoft Corporation] = 8B0A46AF579C91150D1FE212BC0771AC:90112
+vid	%SystemRoot%\System32\drivers\Vid.sys	[Microsoft Corporation] = 52481D5ADC7D0A1C4E8688EE88F2A2EB:828744
+virtualrender	%SystemRoot%\System32\DriverStore\FileRepository\vrd.inf_amd64_df3fa89d8f6bbc88\vrd.sys	[Microsoft Corporation] = A1D5F05D925B736C786F0F05D90143E9:53248
+vmbus	%SystemRoot%\System32\drivers\vmbus.sys	[Microsoft Corporation] = CD288E05567608A07DAEDBD13E95AFDB:208984
+vmbushid	%SystemRoot%\System32\drivers\VMBusHID.sys	[Microsoft Corporation] = 40037A8240826638A27AB7DA0BF4B6A5:71000
+vmgid	%SystemRoot%\System32\drivers\vmgid.sys	[Microsoft Corporation] = 651A0D83DCCD31FF941CC3FFD0140DD9:58720
+vmicguestinterface	%SystemRoot%\System32\icsvc.dll	[Microsoft Corporation] = 99792B59BF47C822262AE29D70DD6E01:312680
+vmicheartbeat	%SystemRoot%\System32\icsvc.dll	[Microsoft Corporation] = 99792B59BF47C822262AE29D70DD6E01:312680
+vmickvpexchange	%SystemRoot%\System32\icsvc.dll	[Microsoft Corporation] = 99792B59BF47C822262AE29D70DD6E01:312680
+vmicrdv	%SystemRoot%\System32\icsvcext.dll	[Microsoft Corporation] = 4C4CCF8B0D327DCDE30DD56CEC86F7C2:143360
+vmicshutdown	%SystemRoot%\System32\icsvc.dll	[Microsoft Corporation] = 99792B59BF47C822262AE29D70DD6E01:312680
+vmictimesync	%SystemRoot%\System32\icsvc.dll	[Microsoft Corporation] = 99792B59BF47C822262AE29D70DD6E01:312680
+vmicvmsession	%SystemRoot%\System32\icsvc.dll	[Microsoft Corporation] = 99792B59BF47C822262AE29D70DD6E01:312680
+vmicvss	%SystemRoot%\System32\icsvcvss.dll	[Microsoft Corporation] = 9D5F30000E0A8E3C143BC6DF134DB0BA:337240
+volmgr	%SystemRoot%\System32\drivers\volmgr.sys	[Microsoft Corporation] = 3AA23D579A57E2692511EC915576B386:124256
+volmgrx	%SystemRoot%\System32\drivers\volmgrx.sys	[Microsoft Corporation] = 9FE33CA3C13919AF7951A3B7D9B68BA1:419168
+volsnap	%SystemRoot%\System32\drivers\volsnap.sys	[Microsoft Corporation] = 346AFD3A66E77F234E05BE439730013C:468312
+volume	%SystemRoot%\System32\drivers\volume.sys	[Microsoft Corporation] = C6C50C0CA5586EC76F36022173B71D6B:54640
+vpci	%SystemRoot%\System32\drivers\vpci.sys	[Microsoft Corporation] = 3CD41CA488423EDD4F6EBF10F22ACF89:120176
+vsmraid	%SystemRoot%\System32\drivers\vsmraid.sys	[VIA Technologies Inc.,Ltd] = F1A8F83E5F0A382AA4B9A53ACAA1CA5E:167784
+vss	%systemroot%\system32\vssvc.exe	[Microsoft Corporation] = E41824427731D3933591BCD216674818:1449984
+vstxraid	%SystemRoot%\System32\drivers\vstxraid.sys	[VIA Corporation] = 6A91C8EDEFFC2CF25B47563E956CF399:306512
+vwifibus	%SystemRoot%\System32\drivers\vwifibus.sys	[Microsoft Corporation] = 42D924FA50CE86D5C89EFA5128D515E5:65536
+vwififlt	%SystemRoot%\System32\drivers\vwififlt.sys	[Microsoft Corporation] = 3B833C2DBD30F9036F98B4DA02C432A3:110592
+vwifimp	%SystemRoot%\System32\drivers\vwifimp.sys	[Microsoft Corporation] = 4FC7C344F352BFF9D5D167DE1B3B2363:86016
+w32time	%systemroot%\system32\w32time.dll	[Microsoft Corporation] = 5E6EB11BAD6CC0D064682B0F62AD9CDD:503808
+waasmedicsvc	%SystemRoot%\System32\WaaSMedicSvc.dll	[Microsoft Corporation] = 41735CC488FB9D05B67378AA2FBB090E:90112
+wacompen	%SystemRoot%\System32\drivers\wacompen.sys	[Microsoft Corporation] = E55ACC4FA1E7601D3BB2ECEFF8C5012A:65536
+walletservice	%SystemRoot%\system32\WalletService.dll	[Microsoft Corporation] = E6BB990615599077D6DC630E24188B8C:458752
+wanarp	%SystemRoot%\System32\DRIVERS\wanarp.sys	[Microsoft Corporation] = A6E56EB90F9567774514528090CA35AA:126976
+wanarpv6	%SystemRoot%\System32\DRIVERS\wanarp.sys	[Microsoft Corporation] = A6E56EB90F9567774514528090CA35AA:126976
+warpjitsvc	%SystemRoot%\System32\Windows.WARP.JITService.dll	[Microsoft Corporation] = 3AE25AAED4D3AF50D443D0ADB17C65C1:86016
+wbengine	"%systemroot%\system32\wbengine.exe"	[Microsoft Corporation] = 517F00CB2C4341041A581BD0D77929A1:1531904
+wbiosrvc	%SystemRoot%\System32\wbiosrvc.dll	[Microsoft Corporation] = 7D2BAD9F7EE22E848880539BC1A5E905:897024
+wcifs	%SystemRoot%\system32\drivers\wcifs.sys	[Microsoft Corporation] = 79F15EF71EF24F056765A6B5E29096A4:251224
+wcmsvc	%SystemRoot%\System32\wcmsvc.dll	[Microsoft Corporation] = 8C9C2F7D8A4F02C48D44B0C654811989:1142784
+wcncsvc	%SystemRoot%\System32\wcncsvc.dll	[Microsoft Corporation] = B93DEBEA2C7BE4843AE8AD351E60010D:487424
+wdboot	%SystemRoot%\system32\drivers\WdBoot.sys	[Microsoft Corporation] = D0C6E102636021C0E98DCCE2BB2C477E:48536
+wdf01000	%SystemRoot%\system32\drivers\Wdf01000.sys	[Microsoft Corporation] = BBC0B2104CC829C703D7FFDE58B858D3:820560
+wdfilter	%SystemRoot%\system32\drivers\WdFilter.sys	[Microsoft Corporation] = 8698C8345E375EA9AFA2979A343687F8:438544
+wdiservicehost	%SystemRoot%\system32\wdi.dll	[Microsoft Corporation] = 158C235FDA93475352E335B984E564CE:114688
+wdisystemhost	%SystemRoot%\system32\wdi.dll	[Microsoft Corporation] = 158C235FDA93475352E335B984E564CE:114688
+wdiwifi	%SystemRoot%\system32\DRIVERS\wdiwifi.sys	[Microsoft Corporation] = F0195D9C45608D4C51430D539918247F:1073152
+wdmcompanionfilter	%SystemRoot%\system32\drivers\WdmCompanionFilter.sys	[Microsoft Corporation] = C44AE805D22FEF451AA3F92B0348FEE8:62800
+wdnisdrv	%SystemRoot%\system32\Drivers\WdNisDrv.sys	[Microsoft Corporation] = 87D1D69D918615C3A25845B37D196BF5:90384
+wdnissvc	"%ProgramFiles%\Windows Defender\NisSrv.exe"	[Microsoft Corporation] = 852AAE2F9F2F13FD6AECC1E1817D8BF1:2909208
+webclient	%SystemRoot%\System32\webclnt.dll	[Microsoft Corporation] = D8A4257A8D63C80283F1ED0AA0547239:249856
+webthreatdefsvc	%SystemRoot%\System32\webthreatdefsvc.dll	[Microsoft Corporation] = 18D067E5C6946246D777EDBFCFD9B1CA:163840
+webthreatdefusersvc	%SystemRoot%\System32\webthreatdefusersvc.dll	[Microsoft Corporation] = CAB983C29994E3C2A98C1AFA528B3EE2:135168
+wecsvc	%SystemRoot%\system32\wecsvc.dll	[Microsoft Corporation] = 577EBA4FFF4630C0F6B3DE32303C2E5B:208896
+wephostsvc	%systemroot%\system32\wephostsvc.dll	[Microsoft Corporation] = CD86000B132972ED83F4524DD201AF6C:53248
+wercplsupport	%SystemRoot%\System32\wercplsupport.dll	[Microsoft Corporation] = D21F81C52B5E93AB169BAC7ABAF72BA6:102400
+wersvc	%SystemRoot%\System32\WerSvc.dll	[Microsoft Corporation] = D8FA4BB6E0184BE3B44F35731230FEB7:303104
+wfdsconmgrsvc	%SystemRoot%\System32\wfdsconmgrsvc.dll	[Microsoft Corporation] = FD4DD7BBBA543EB0C72A1D740430ACB1:667648
+wfplwfs	%SystemRoot%\System32\drivers\wfplwfs.sys	[Microsoft Corporation] = F685CD57E5F34149E6CE8CA910127DFA:210304
+wiarpc	%SystemRoot%\System32\wiarpc.dll	[Microsoft Corporation] = 9C04F65BB97E3A815A6B3D6EAD8B28F5:118784
+wificx	%SystemRoot%\system32\drivers\WifiCx.sys	[Microsoft Corporation] = ACAA6C4853B5AEB7AA23DD82E1AFB921:835584
+wimmount	%SystemRoot%\system32\drivers\wimmount.sys	[Microsoft Corporation] = 69B3E77D2A21BF5EA433470332321034:71000
+windefend	"%ProgramFiles%\Windows Defender\MsMpEng.exe"	[Microsoft Corporation] = 2C2714BAB4E11FD6865DDF8B501A212D:128376
+windowstrustedrt	%SystemRoot%\system32\drivers\WindowsTrustedRT.sys	[Microsoft Corporation] = 90F6DE9BD93F66E3157BCCB33F3DC7B8:108032
+windowstrustedrtproxy	%SystemRoot%\System32\drivers\WindowsTrustedRTProxy.sys	[Microsoft Corporation] = 873D5A657930A3AF65E8FAAC60D5CECE:54784
+winhttpautoproxysvc	%SystemRoot%\system32\winhttp.dll	[Microsoft Corporation] = 33B3C5652C6D25661C9E9A0D1EAE71B2:1286424
+winmad	%SystemRoot%\System32\drivers\winmad.sys	[Mellanox] = CF7FAA4F4E4496501AE12124CEC6D13E:37224
+winmgmt	%SystemRoot%\system32\wbem\WMIsvc.dll	[Microsoft Corporation] = CAB90B6669AE3270320A0E277707CF75:245760
+winnat	%SystemRoot%\system32\drivers\winnat.sys	[Microsoft Corporation] = 07713AB730B931C02E69000AE85A1510:303024
+winrm	%SystemRoot%\system32\WsmSvc.dll	[Microsoft Corporation] = 7731778AD812DAAFD65542C48B733DA5:2883584
+wintun	%SystemRoot%\System32\drivers\wintun.sys	[WireGuard LLC] = 1945D7D1F56B67AE1CAD6FFE13A01985:38176
+winusb	%SystemRoot%\System32\drivers\WinUSB.SYS	[Microsoft Corporation] = A6A05580CD02ADC0DE0C58473D24C82F:139264
+winverbs	%SystemRoot%\System32\drivers\winverbs.sys	[Mellanox] = D9241313665FCC15E8B12737B70BA439:74096
+wireguard	%SystemRoot%\System32\drivers\wireguard.sys	[WireGuard LLC] = F6092EC8F7ABDB3C2C089BFB3279B65F:489368
+wisvc	%systemroot%\system32\flightsettings.dll	[Microsoft Corporation] = 1C6AE0098ADED2542900B807C9BA0400:1030240
+wlansvc	%SystemRoot%\System32\wlansvc.dll	[Microsoft Corporation] = 5B28BC99B65F22EF4CD84A758C0F6804:2756608
+wlidsvc	%SystemRoot%\system32\wlidsvc.dll	[Microsoft Corporation] = 0FE369E8896036F5D2C1A1F2783A5870:2052096
+wlpasvc	%SystemRoot%\System32\lpasvc.dll	[Microsoft Corporation] = 664FBD64EDA696549412BE8D6B815170:1196032
+wmansvc	%systemroot%\system32\Windows.Management.Service.dll	[Microsoft Corporation] = CFFED0F9A13ECB6076CC79422B2E5E11:1245184
+wmiacpi	%SystemRoot%\System32\drivers\wmiacpi.sys	[Microsoft Corporation] = 1BCDBF50818333A964B90AA88D82629B:53248
+wmiapsrv	%systemroot%\system32\wbem\WmiApSrv.exe	[Microsoft Corporation] = 7520E2F79C7F6E0B804B91DFA7E357C2:200704
+wo_liveservice2	%programfiles(x86)%\Ashampoo WinOptimizer\LiveTunerService.exe	[] = A9EDA6F8D7AB56B89D0978BE2979F7FB:308128
+wpcmonsvc	%SystemRoot%\System32\WpcDesktopMonSvc.dll	[Microsoft Corporation] = BD816D14198FFC4D63183A5937BDFFE3:1945600
+wpdbusenum	%SystemRoot%\system32\wpdbusenum.dll	[Microsoft Corporation] = FC9622A72719E32FBF6502323D1ACAC6:118784
+wpdupfltr	%SystemRoot%\System32\drivers\WpdUpFltr.sys	[Microsoft Corporation] = 4ADEED69D521285D4D41AC2D68AFC51A:71000
+wpnservice	%SystemRoot%\system32\WpnService.dll	[Microsoft Corporation] = 5CA9FA48FE0CB3819F1D55C37618D6C6:266240
+wpnuserservice	%SystemRoot%\System32\WpnUserService.dll	[Microsoft Corporation] = 4E1D385A0CA05D293F8E2F6B5303464F:106496
+ws2ifsl	%SystemRoot%\system32\drivers\ws2ifsl.sys	[Microsoft Corporation] = B998B58FD07AE09BC685F95FC4162A22:57344
+wscsvc	%SystemRoot%\System32\wscsvc.dll	[Microsoft Corporation] = 9146783E581A65578ABF9A7A03CECD12:400888
+wsearch	%systemroot%\system32\SearchIndexer.exe /Embedding	[Microsoft Corporation] = 5470B3D949933A03B6A848258FA26D8D:966656
+wtd	%SystemRoot%\System32\drivers\wtd.sys	[Microsoft Corporation] = 711199A0B488D8F2DF9151AD3ED397A6:118784
+wuauserv	%systemroot%\system32\wuaueng.dll	[Microsoft Corporation] = E317C83FA79BE866F228E93F8B64CEAC:137040
+wudfpf	%SystemRoot%\system32\drivers\WudfPf.sys	[Microsoft Corporation] = 10F295A1D2601FCBCCE943A6779BA49B:167936
+wudfrd	%SystemRoot%\System32\drivers\WUDFRd.sys	[Microsoft Corporation] = EDE1574E26FFC1BCA9E4264D3B31C80D:352256
+wudfwpdfs	%SystemRoot%\system32\DRIVERS\WUDFRd.sys	[Microsoft Corporation] = EDE1574E26FFC1BCA9E4264D3B31C80D:352256
+wwansvc	%SystemRoot%\System32\wwansvc.dll	[Microsoft Corporation] = 7B3F7D516F597891BD72CDABAB62F698:1466368
+xblauthmanager	%SystemRoot%\System32\XblAuthManager.dll	[Microsoft Corporation] = F22A4AEB35306E2A38CCDAA00AFE8954:1044480
+xblgamesave	%SystemRoot%\System32\XblGameSave.dll	[Microsoft Corporation] = 1087838DC6B071058239A119096449C1:1040384
+xboxgip	%SystemRoot%\System32\drivers\xboxgip.sys	[Microsoft Corporation] = 8CB1EB1BBF238A2390CB9DC10B9681C7:393216
+xboxgipsvc	%SystemRoot%\System32\XboxGipSvc.dll	[Microsoft Corporation] = D2B4B3E4E59BEA42D839C5343B95E59C:131072
+xboxnetapisvc	%SystemRoot%\system32\XboxNetApiSvc.dll	[Microsoft Corporation] = BAA044458D4D8E15B0F30343CD187705:1392640
+xinputhid	%SystemRoot%\System32\drivers\xinputhid.sys	[Microsoft Corporation] = 561D4F2D6248A32B4EB9A1E89FD2FA0B:81920
+
+[Browser Helper Object]
+
+{9961627E-4059-41B4-8E0E-A7D6B3854ADF}	(x86) %programfiles(x86)%\Download Master\dmiehlp.dll	[WestByte] = ECE3D898B9A156DEC1CBBB88108F693F:165096
+
+[Layered Service Provider]
+
+Hyper-V RAW	%system%\mswsock.dll	{1234191B-4BF7-4CA7-86E0-DFD7C32B5445}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD Tcpip [TCP/IPv6]	%system%\mswsock.dll	{F9EAB0C0-26D4-11D0-BBBF-00AA006C34E4}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD Tcpip [UDP/IPv6]	%system%\mswsock.dll	{F9EAB0C0-26D4-11D0-BBBF-00AA006C34E4}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD Tcpip [RAW/IPv6]	%system%\mswsock.dll	{F9EAB0C0-26D4-11D0-BBBF-00AA006C34E4}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD Tcpip [TCP/IP]	%system%\mswsock.dll	{E70F1AA0-AB8B-11CF-8CA3-00805F48A192}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD Tcpip [UDP/IP]	%system%\mswsock.dll	{E70F1AA0-AB8B-11CF-8CA3-00805F48A192}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD Tcpip [RAW/IP]	%system%\mswsock.dll	{E70F1AA0-AB8B-11CF-8CA3-00805F48A192}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+Ïîñòàâùèê óñëóã RSVP TCPv6	%system%\mswsock.dll	{9D60A9E0-337A-11D0-BD88-0000C082E69A}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+Ïîñòàâùèê óñëóã RSVP TCP	%system%\mswsock.dll	{9D60A9E0-337A-11D0-BD88-0000C082E69A}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+Ïîñòàâùèê óñëóã RSVP UDPv6	%system%\mswsock.dll	{9D60A9E0-337A-11D0-BD88-0000C082E69A}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+Ïîñòàâùèê óñëóã RSVP UDP	%system%\mswsock.dll	{9D60A9E0-337A-11D0-BD88-0000C082E69A}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+AF_UNIX	%system%\mswsock.dll	{A00943D9-9C2E-4633-9B59-0057A3160994}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD L2CAP [Bluetooth]	%system%\mswsock.dll	{9FC48064-7298-43E4-B7BD-181F2089792A}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+MSAFD RfComm [Bluetooth]	%system%\mswsock.dll	{9FC48064-7298-43E4-B7BD-181F2089792A}	[Microsoft Corporation] = 8908107906AEED3F2BE367DD58876A4A:439408
+
+[Browser]
+
+%programfiles%\Internet Explorer\ExtExport.exe	[Microsoft Corporation] = F2204C11D8C907B85E80C5D7F13F66C0:77824
+%programfiles%\Internet Explorer\hmmapi.dll	[Microsoft Corporation] = A6791FCE70861402B266F78D11CDE1C4:73728
+%programfiles%\Internet Explorer\iediagcmd.exe	[Microsoft Corporation] = 74BD60A61267D645A5924491D137EA77:540672
+%programfiles%\Internet Explorer\ieinstal.exe	[Microsoft Corporation] = D2C66C2D43E99D6FF4D7979873A4A6B7:319488
+%programfiles%\Internet Explorer\ielowutil.exe	[Microsoft Corporation] = 345A3218F42C765156107C973FD3BCB6:241664
+%programfiles%\Internet Explorer\IEShims.dll	[Microsoft Corporation] = A02017127B1BB51A6415AAE78435DCCE:413696
+%programfiles%\Internet Explorer\iexplore.exe	[Microsoft Corporation] = 38DB285C10EFF53A83B862A714C748BC:845296
+%programfiles%\Google\Chrome\Application\139.0.7258.139\chrome.dll	[Google LLC] = 0C620EB02A2C82CB0F95719EF92086AB:255377048
+%programfiles%\Google\Chrome\Application\139.0.7258.139\chrome_elf.dll	[Google LLC] = 1BEF77543E37CC9FB7FBC138B4DFF611:1658520
+%programfiles%\Google\Chrome\Application\139.0.7258.139\chrome_pwa_launcher.exe	[Google LLC] = DC654F089D89D540DE2C1BD1A6F6CA17:1779864
+%programfiles%\Google\Chrome\Application\139.0.7258.139\chrome_wer.dll	[Google LLC] = B7AA160F162803A42B3D960455AC4278:121496
+%programfiles%\Google\Chrome\Application\139.0.7258.139\d3dcompiler_47.dll	[Microsoft Corporation] = 1A7544F942A9A9DE9354E7A0F9060E3A:4916728
+%programfiles%\Google\Chrome\Application\139.0.7258.139\dxcompiler.dll	[Microsoft(r) Corporation] = C0A59A398E2749A50ED1037C771240E8:25847448
+%programfiles%\Google\Chrome\Application\139.0.7258.139\dxil.dll	[Microsoft(r) Corporation] = 360C2EC3A4114840498E4B0F45820395:1502800
+%programfiles%\Google\Chrome\Application\139.0.7258.139\elevated_tracing_service.exe	[Google LLC] = D131803B143078E5FED184EBD1496E6A:3493016
+%programfiles%\Google\Chrome\Application\139.0.7258.139\elevation_service.exe	[Google LLC] = C7C5291CB61DA485B56443208BFB84B0:2335384
+%programfiles%\Google\Chrome\Application\139.0.7258.139\eventlog_provider.dll	[Google LLC] = ED0F24C1EA8FE90C717421890E129A4D:16536
+%programfiles%\Google\Chrome\Application\139.0.7258.139\libEGL.dll	[] = A56560B349153D582FFCD19B9A93FFBC:510104
+%programfiles%\Google\Chrome\Application\139.0.7258.139\libGLESv2.dll	[] = 36E0D9671700CF92C9D7FC5114EF61E8:7901848
+%programfiles%\Google\Chrome\Application\139.0.7258.139\notification_helper.exe	[Google LLC] = 62BAC5DBD7839CF4DA77A56230AC7541:1687704
+%programfiles%\Google\Chrome\Application\139.0.7258.139\optimization_guide_internal.dll	[Google LLC] = 2C33BD0B4344C68FA26DB1B74F6F9DC5:12062872
+%programfiles%\Google\Chrome\Application\139.0.7258.139\os_update_handler.exe	[Google LLC] = 09C522F49AABD3C4353D65BB2F0ACC8B:1915032
+%programfiles%\Google\Chrome\Application\139.0.7258.139\vk_swiftshader.dll	[] = 7E9DF2C66B584FD25A6A0A637E7B7703:5354648
+%programfiles%\Google\Chrome\Application\139.0.7258.139\vulkan-1.dll	[] = 37A6DD29F25D503E99D1FF0722718AFD:918680
+%programfiles%\Google\Chrome\Application\chrome.exe	[Google LLC] = 6A6311C24A7840D85D265C5EBEF64E28:3078808
+%programfiles%\Google\Chrome\Application\chrome_proxy.exe	[Google LLC] = F5C87674EEF8E73DF96727D0A98B1913:1471640
+%programfiles(x86)%\Opera\120.0.5543.161\d3dcompiler_47.dll	[Microsoft Corporation] = C8596867D328160755C597A3F72B5268:4927464
+%programfiles(x86)%\Opera\120.0.5543.161\dxcompiler.dll	[Microsoft(r) Corporation] = 6A7B00E45BEE822A25897A33F6492C11:25759704
+%programfiles(x86)%\Opera\120.0.5543.161\dxil.dll	[Microsoft(r) Corporation] = FEE00C5CAD1B49D98A3E25FF20B222D2:1519096
+%programfiles(x86)%\Opera\120.0.5543.161\installer.exe	[Opera Software] = B5CE89F406AB36F99D06AB81B0F08B5D:7588824
+%programfiles(x86)%\Opera\120.0.5543.161\installer_helper_64.exe	[] = AB3D5C25A84774A11BDA7339C4682CC5:570840
+%programfiles(x86)%\Opera\120.0.5543.161\libEGL.dll	[] = 06AEABECF9C2EBF1F323AE6B5385FFEC:505816
+%programfiles(x86)%\Opera\120.0.5543.161\libGLESv2.dll	[] = 5B72B683A66AD48FFF5A7CAEAE89617D:7850968
+%programfiles(x86)%\Opera\120.0.5543.161\notification_helper.exe	[Opera Norway AS] = B2AD4D093D7AACBDC3EEAEF596B9F179:1746392
+%programfiles(x86)%\Opera\120.0.5543.161\opera.exe	[Opera Software] = 4E416967EF7117D35FA2B68E5835772C:2068440
+%programfiles(x86)%\Opera\120.0.5543.161\opera_browser.dll	[] = A64469C7C687A22C9C50034B3AA47465:237171160
+%programfiles(x86)%\Opera\120.0.5543.161\opera_crashreporter.exe	[Opera Software] = 2FDEFF46F459ACA0DEFF6AB96F4D2BDC:2812376
+%programfiles(x86)%\Opera\120.0.5543.161\opera_elf.dll	[] = 5056C0670A4FF4B46BB19EAA78B33291:1581016
+%programfiles(x86)%\Opera\120.0.5543.161\opera_gx_splash.exe	[] = BBE007B668D8FECDCC432B2EF867FD76:1894872
+%programfiles(x86)%\Opera\120.0.5543.161\vk_swiftshader.dll	[] = DCEA0B5CFEB7F350280E987DB80E27B9:5407704
+%programfiles(x86)%\Opera\120.0.5543.161\vulkan-1.dll	[] = 36B2F12629CD50AF236591961D4381A9:896472
+%programfiles(x86)%\Opera\120.0.5543.161\win10_share_handler.dll	[] = 23819E42D6ABF6333201FDACD7A699C7:1413080
+%programfiles(x86)%\Opera\120.0.5543.161\win8_importing.dll	[] = 8795085AD770708E2D239066CF1FC21A:574936
+%programfiles(x86)%\Opera\99.0.4788.65\d3dcompiler_47.dll	[Microsoft Corporation] = A6C6270CA5879749A632172FF9A63B83:4927392
+%programfiles(x86)%\Opera\99.0.4788.65\installer.exe	[Opera Software] = E682F99EA486C8D8D9A5141189CA8620:6431128
+%programfiles(x86)%\Opera\99.0.4788.65\installer_helper_64.exe	[] = 81B6ADE17E419267C5B21C39EEBC923C:1104288
+%programfiles(x86)%\Opera\99.0.4788.65\libEGL.dll	[] = 07449738C63FAA88769A8A72EEF3EBFE:485792
+%programfiles(x86)%\Opera\99.0.4788.65\libGLESv2.dll	[] = F1176B45BB79F5149505F48DF5FFCF6E:7336344
+%programfiles(x86)%\Opera\99.0.4788.65\mojo_core.dll	[Opera Norway AS] = D4156C113E60A9D8F5498A73E0F394EA:1903008
+%programfiles(x86)%\Opera\99.0.4788.65\notification_helper.exe	[Opera Norway AS] = DB44F151B77A830E3ADDC46649AC0893:1325464
+%programfiles(x86)%\Opera\99.0.4788.65\opera.exe	[Opera Software] = 0926A2006C7ACEF6D245519AB4F3E5FD:1828248
+%programfiles(x86)%\Opera\99.0.4788.65\opera_autoupdate.exe	[Opera Software] = 2D28A617A4FDCF5F82D6C59CF2F3B099:5748120
+%programfiles(x86)%\Opera\99.0.4788.65\opera_browser.dll	[] = D407BCCAEF18C5DD06EDC09721AE04D2:201851288
+%programfiles(x86)%\Opera\99.0.4788.65\opera_crashreporter.exe	[Opera Software] = C58B61E360D52BB547F7E8D978373FFD:2406304
+%programfiles(x86)%\Opera\99.0.4788.65\opera_elf.dll	[] = 4E10E93BE33D8CC28C2F909EAEBB3CDE:1222048
+%programfiles(x86)%\Opera\99.0.4788.65\vk_swiftshader.dll	[] = 65043E7D49AD36DCAF87781D72E0128D:5088672
+%programfiles(x86)%\Opera\99.0.4788.65\vulkan-1.dll	[] = C09AB7D986F736C4A1EDAF5749F94ECF:934808
+%programfiles(x86)%\Opera\99.0.4788.65\win10_share_handler.dll	[] = EE70EE86981F160E96FC611568E6A95B:1108384
+%programfiles(x86)%\Opera\99.0.4788.65\win8_importing.dll	[] = AB34E7229A959F372B46B78CA9316AA0:1107352
+%programfiles(x86)%\Opera\assistant\assistant_installer.exe	[Opera Software] = A8A6598CB645B49196B032A1FAEEB2BE:2957208
+%programfiles(x86)%\Opera\assistant\browser_assistant.exe	[Opera Software] = 27ABCA9DFBE1927828839C5067DA9F7D:4965792
+%programfiles(x86)%\Opera\assistant\dbgcore.dll	[Microsoft Corporation] = 23853C68DBE1B4AB1CDCC1D91B911C5E:225216
+%programfiles(x86)%\Opera\assistant\dbghelp.dll	[Microsoft Corporation] = 7221BA6337162893BE1E2C7C33C55C38:2191296
+%programfiles(x86)%\Opera\assistant\mojo_core.dll	[Opera Norway AS] = 44DBE74C0D059BD4AC04F0F3585930FD:1903008
+%programfiles(x86)%\Opera\autoupdate\opera_autoupdate.exe	[Opera Software] = CAF4B965E5EF7F2CA5D91B55C2958BF6:6239704
+%programfiles(x86)%\Opera\opera.exe	[Opera Software] = 4E416967EF7117D35FA2B68E5835772C:2068440
+
+[Chromium Extensions]
+
+
+[HOSTS]
+
+# Copyright (c) 1993-2006 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+127.0.0.1       localhost
+
+[Files from system folders]
+
+
+[=Finished=]
