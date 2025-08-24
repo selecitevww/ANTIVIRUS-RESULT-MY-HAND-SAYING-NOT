@@ -1,3 +1,10 @@
+Windows 10 Home x64 (version 6.3) 22621 [22621.1.amd64fre.ni_release.220506-1250]
+Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz
+Total memory: 16225 Mb
+Last update: 30.12.1899
+Collected: 17.06.2066 4:48:51
+
+
 
 Loaris Trojan Remover v.3.1.15
 Report file date: 17.06.2066 4:14:58
