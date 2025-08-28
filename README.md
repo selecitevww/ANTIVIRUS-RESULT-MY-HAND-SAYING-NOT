@@ -9,7 +9,7 @@ Last update: 30.12.1899
 Collected: 17.06.2066 4:48:51
 
 
-
+ ![1](https://github.com/selecitevww/ANTIVIRUS-RESULT-MY-HAND-SAYING-NOT/blob/main/ANTIVIRUS-RESULT-MY-HAND-SAYING-NOT.jpg)
 
 
 Loaris Trojan Remover v.3.1.15
